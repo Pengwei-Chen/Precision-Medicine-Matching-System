@@ -1,0 +1,17 @@
+﻿@{ 
+	ViewData["Title"] = "Knowledge Base";
+}
+
+<h4>Knowledge Base</h4>
+<br />
+<div class="row">
+	<div class="col-4" style="text-align:center">
+		<a class="text-dark" asp-area="" asp-controller="KnowledgeBase" asp-action="DrugLabelAnnotations"><img src="~/Images/DrugLabelAnnotations.png">Drug Label Annotations</a>
+	</div>
+	<div class="col-4" style="text-align:center">
+		<a class="text-dark" asp-area="" asp-controller="KnowledgeBase" asp-action="ClinicalGuidelineAnnotations"><img src="~/Images/ClinicalGuidelineAnnotations.png" />Clinical Guideline Annotations</a>
+	</div>
+	<div class="col-4" style="text-align:center">
+		<a class="text-dark" asp-area="" asp-controller="KnowledgeBase" asp-action="AnnotatedDrugs"><img src="~/Images/AnnotatedDrugs.png" />Annotated Drugs</a>
+	</div>
+</div>

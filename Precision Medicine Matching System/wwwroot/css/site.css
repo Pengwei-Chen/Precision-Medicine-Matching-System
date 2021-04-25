@@ -1,0 +1,96 @@
+﻿a.navbar-brand {
+	white-space: normal;
+	text-align: center;
+	word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+	color: #0366d6;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #1b6ec2;
+	border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+	color: #fff;
+	background-color: #1b6ec2;
+	border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+	font-size: 14px;
+}
+
+@media (min-width: 768px) {
+	html {
+		font-size: 16px;
+	}
+}
+
+.border-top {
+	border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.border-right {
+	border-right: 1px solid #e5e5e5;
+}
+
+button.accept-policy {
+	font-size: 1rem;
+	line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	/* Margin bottom by footer height */
+	margin-bottom: 60px;
+	background-image: url("../Images/Background.png");
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	white-space: nowrap;
+	line-height: 60px; /* Vertically center the text there */
+}
+
+.nav-line {
+	background: none repeat scroll 0 0 #35C4FD;
+	bottom: 0;
+	font-size: 0;
+	height: 2px;
+	left: 0;
+	line-height: 2px;
+	position: absolute;
+	width: 52px;
+}
+
+.nav-item {
+	transition: background-color 0.5s linear;
+}
+
+	.nav-item:hover {
+		background-color: #f0f0f0;
+	}
+
+.navbar {
+	padding: 0px;
+	line-height: 50px;
+}
