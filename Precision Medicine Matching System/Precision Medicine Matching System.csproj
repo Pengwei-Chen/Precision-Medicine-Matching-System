@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Precision_Medicine_Matching_System</RootNamespace>
+    <UserSecretsId>c45fb732-45e4-4e9d-8fc7-bb7c46bd038e</UserSecretsId>
   </PropertyGroup>
 
 </Project>
