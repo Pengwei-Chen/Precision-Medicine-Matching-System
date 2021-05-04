@@ -5,4 +5,11 @@
     <RootNamespace>Precision_Medicine_Matching_System</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="crawler\**" />
+    <Content Remove="crawler\**" />
+    <EmbeddedResource Remove="crawler\**" />
+    <None Remove="crawler\**" />
+  </ItemGroup>
+
 </Project>
