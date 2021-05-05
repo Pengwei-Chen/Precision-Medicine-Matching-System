@@ -5,7 +5,7 @@
 	if (url.indexOf("Matching") != -1) {
 		page = 1;
 	}
-	else if (url.indexOf("KnowledgeBase") != -1 || url.indexOf("ClinicalGuidelineAnnotations") != -1 || url.indexOf("DrugLabelAnnotations") != -1 || url.indexOf("AnnotatedDrugs") != -1) {
+	else if (url.indexOf("KnowledgeBase") != -1 || url.indexOf("DrugLabelAnnotations") != -1 || url.indexOf("ClinicalGuidelineAnnotations") != -1 || url.indexOf("AnnotatedDrugs") != -1) {
 		page = 2
 	}
 	else if (url.indexOf("AboutUs") != -1) {
@@ -31,7 +31,7 @@ $("div.navbar-collapse>ul.navbar-nav>li.nav-item").mouseleave(function () {
 	if (url.indexOf("Matching") != -1) {
 		page = 1;
 	}
-	else if (url.indexOf("KnowledgeBase") != -1) {
+	else if (url.indexOf("KnowledgeBase") != -1 || url.indexOf("DrugLabelAnnotations") != -1 || url.indexOf("ClinicalGuidelineAnnotations") != -1 || url.indexOf("AnnotatedDrugs") != -1) {
 		page = 2
 	}
 	else if (url.indexOf("AboutUs") != -1) {

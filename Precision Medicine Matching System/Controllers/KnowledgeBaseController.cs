@@ -12,20 +12,5 @@ namespace Precision_Medicine_Matching_System.Controllers
 		{
 			return View();
 		}
-
-		public IActionResult DrugLabelAnnotations()
-		{
-			return View();
-		}
-
-		public IActionResult ClinicalGuidelineAnnotations()
-		{
-			return View();
-		}
-
-		public IActionResult AnnotatedDrugs()
-		{
-			return View();
-		}
 	}
 }

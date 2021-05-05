@@ -27,7 +27,7 @@ namespace Precision_Medicine_Matching_System
 		public void ConfigureServices(IServiceCollection services)
 		{
 			services.AddControllersWithViews();
-			services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DbContext")));
+			services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DatabaseContext")));
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
