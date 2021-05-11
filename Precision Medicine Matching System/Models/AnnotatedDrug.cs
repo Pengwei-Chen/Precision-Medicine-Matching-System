@@ -20,6 +20,6 @@ namespace Precision_Medicine_Matching_System.Models
 		public string DrugUrl { get; set; }
 
 		[Required]
-		public int Biomarker { get; set; }
+		public bool Biomarker { get; set; }
 	}
 }

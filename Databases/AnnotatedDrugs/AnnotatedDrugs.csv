@@ -1,0 +1,409 @@
+PA10026,aripiprazole,/chemical/PA10026,1
+PA10040,cetuximab,/chemical/PA10040,1
+PA10066,duloxetine,/chemical/PA10066,1
+PA10074,escitalopram,/chemical/PA10074,1
+PA10075,esomeprazole,/chemical/PA10075,1
+PA10084,fosamprenavir,/chemical/PA10084,0
+PA10176,rasburicase,/chemical/PA10176,1
+PA10202,telithromycin,/chemical/PA10202,0
+PA10229,vardenafil,/chemical/PA10229,0
+PA10233,voriconazole,/chemical/PA10233,1
+PA10251,atazanavir,/chemical/PA10251,0
+PA10352,palonosetron,/chemical/PA10352,1
+PA10715,sulfamethoxazole / trimethoprim,/chemical/PA10715,1
+PA10799,anakinra,/chemical/PA10799,1
+PA10804,imatinib,/chemical/PA10804,1
+PA10819,gamma hydroxybutyric acid,/chemical/PA10819,1
+PA10888,clobazam,/chemical/PA10888,1
+PA10892,gliclazide,/chemical/PA10892,0
+PA128406956,fluorouracil,/chemical/PA128406956,1
+PA131301952,gefitinib,/chemical/PA131301952,1
+PA134308647,rosuvastatin,/chemical/PA134308647,1
+PA134687907,formoterol,/chemical/PA134687907,1
+PA134687924,erlotinib,/chemical/PA134687924,1
+PA134687947,eletriptan,/chemical/PA134687947,0
+PA134688071,atomoxetine,/chemical/PA134688071,1
+PA135057240,bupivacaine,/chemical/PA135057240,1
+PA140222719,tetrabenazine,/chemical/PA140222719,1
+PA142650384,pitavastatin,/chemical/PA142650384,0
+PA143487910,aliskiren,/chemical/PA143487910,0
+PA151958426,nebivolol,/chemical/PA151958426,1
+PA151958574,posaconazole,/chemical/PA151958574,0
+PA152241907,lapatinib,/chemical/PA152241907,1
+PA153619853,dronedarone,/chemical/PA153619853,0
+PA154410481,prasugrel,/chemical/PA154410481,1
+PA161199368,iloperidone,/chemical/PA161199368,1
+PA162363968,lenalidomide,/chemical/PA162363968,1
+PA162372840,sunitinib,/chemical/PA162372840,0
+PA162372878,dasatinib,/chemical/PA162372878,1
+PA162373091,panitumumab,/chemical/PA162373091,1
+PA163518919,paliperidone,/chemical/PA163518919,1
+PA163522472,darunavir,/chemical/PA163522472,0
+PA163522473,tipranavir,/chemical/PA163522473,0
+PA164712951,Opium derivatives and expectorants,/chemical/PA164712951,0
+PA164713150,Parathyroid Hormones And Analogues,/chemical/PA164713150,1
+PA164713397,Vitamin B-complex with vitamin C,/chemical/PA164713397,0
+PA164743977,arformoterol,/chemical/PA164743977,1
+PA164744510,lofexidine,/chemical/PA164744510,1
+PA164746007,ranolazine,/chemical/PA164746007,0
+PA164746311,everolimus,/chemical/PA164746311,1
+PA164746384,nalidixic acid,/chemical/PA164746384,1
+PA164746757,tolterodine,/chemical/PA164746757,1
+PA164746820,fosphenytoin,/chemical/PA164746820,1
+PA164747170,fulvestrant,/chemical/PA164747170,1
+PA164747674,goserelin,/chemical/PA164747674,1
+PA164748364,tositumomab,/chemical/PA164748364,0
+PA164748728,mycophenolic acid,/chemical/PA164748728,1
+PA164748741,mepivacaine,/chemical/PA164748741,1
+PA164749136,desflurane,/chemical/PA164749136,1
+PA164749431,gemtuzumab ozogamicin,/chemical/PA164749431,1
+PA164750594,denileukin diftitox,/chemical/PA164750594,1
+PA164754753,alglucosidase alfa,/chemical/PA164754753,1
+PA164754754,cevimeline,/chemical/PA164754754,1
+PA164768835,maraviroc,/chemical/PA164768835,0
+PA164769056,tiotropium,/chemical/PA164769056,0
+PA164774901,darifenacin,/chemical/PA164774901,1
+PA164774902,tolazamide,/chemical/PA164774902,1
+PA164776637,eculizumab,/chemical/PA164776637,1
+PA164776964,desloratadine,/chemical/PA164776964,0
+PA164777036,hydroxychloroquine,/chemical/PA164777036,1
+PA164781042,flucloxacillin,/chemical/PA164781042,0
+PA164781375,ibritumomab,/chemical/PA164781375,0
+PA164783479,divalproex sodium,/chemical/PA164783479,0
+PA164784002,sertindole,/chemical/PA164784002,0
+PA164784024,peginterferon alfa-2b,/chemical/PA164784024,1
+PA164888966,raltegravir,/chemical/PA164888966,1
+PA164920420,olaparib,/chemical/PA164920420,1
+PA164924493,axitinib,/chemical/PA164924493,0
+PA165110439,ixabepilone,/chemical/PA165110439,1
+PA165290928,drospirenone / ethinyl estradiol,/chemical/PA165290928,1
+PA165290929,ethinyl estradiol / norelgestromin,/chemical/PA165290929,0
+PA165290933,pertuzumab,/chemical/PA165290933,1
+PA165291472,neratinib,/chemical/PA165291472,1
+PA165291492,pazopanib,/chemical/PA165291492,1
+PA165291493,ofatumumab,/chemical/PA165291493,0
+PA165374673,ticagrelor,/chemical/PA165374673,1
+PA165906891,cabozantinib,/chemical/PA165906891,1
+PA165946122,crizotinib,/chemical/PA165946122,1
+PA165946873,vemurafenib,/chemical/PA165946873,1
+PA165948902,boceprevir,/chemical/PA165948902,1
+PA165948903,brentuximab vedotin,/chemical/PA165948903,1
+PA165950341,ivacaftor,/chemical/PA165950341,1
+PA165958345,nilotinib,/chemical/PA165958345,1
+PA165958348,indacaterol,/chemical/PA165958348,1
+PA165958354,telaprevir,/chemical/PA165958354,1
+PA165958360,rivaroxaban,/chemical/PA165958360,1
+PA165958374,desvenlafaxine,/chemical/PA165958374,1
+PA165958376,fesoterodine,/chemical/PA165958376,1
+PA165958401,cabazitaxel,/chemical/PA165958401,0
+PA165958402,carglumic acid,/chemical/PA165958402,1
+PA165958441,trastuzumab emtansine,/chemical/PA165958441,1
+PA165963961,pegloticase,/chemical/PA165963961,1
+PA165971474,belinostat,/chemical/PA165971474,1
+PA165980594,ponatinib,/chemical/PA165980594,1
+PA165981154,afatinib,/chemical/PA165981154,1
+PA165981594,eltrombopag,/chemical/PA165981594,1
+PA166048654,ustekinumab,/chemical/PA166048654,1
+PA166110257,dexlansoprazole,/chemical/PA166110257,1
+PA166114316,sodium phenylbutyrate,/chemical/PA166114316,1
+PA166114904,belimumab,/chemical/PA166114904,0
+PA166114906,bosutinib,/chemical/PA166114906,1
+PA166114911,dabrafenib,/chemical/PA166114911,1
+PA166114922,lomitapide,/chemical/PA166114922,0
+PA166114925,mafenide,/chemical/PA166114925,1
+PA166114927,mipomersen,/chemical/PA166114927,0
+PA166114929,homoharringtonine,/chemical/PA166114929,0
+PA166114943,regorafenib,/chemical/PA166114943,1
+PA166114961,dolutegravir,/chemical/PA166114961,1
+PA166115361,sodium nitrite,/chemical/PA166115361,1
+PA166115364,trametinib,/chemical/PA166115364,1
+PA166115366,velaglucerase alfa,/chemical/PA166115366,0
+PA166115580,tafenoquine,/chemical/PA166115580,1
+PA166118341,vandetanib,/chemical/PA166118341,0
+PA166121346,ibrutinib,/chemical/PA166121346,1
+PA166122586,afutuzumab,/chemical/PA166122586,0
+PA166122590,simeprevir,/chemical/PA166122590,1
+PA166122593,sofosbuvir,/chemical/PA166122593,1
+PA166122595,vortioxetine,/chemical/PA166122595,1
+PA166123386,ruxolitinib,/chemical/PA166123386,0
+PA166123389,fampridine,/chemical/PA166123389,0
+PA166123415,ivabradine,/chemical/PA166123415,0
+PA166123486,eliglustat,/chemical/PA166123486,1
+PA166124615,pembrolizumab,/chemical/PA166124615,1
+PA166124616,ceritinib,/chemical/PA166124616,1
+PA166128167,daclatasvir,/chemical/PA166128167,1
+PA166129466,lonafarnib,/chemical/PA166129466,1
+PA166129522,nivolumab,/chemical/PA166129522,1
+PA166129523,atezolizumab,/chemical/PA166129523,1
+PA166129524,blinatumomab,/chemical/PA166129524,1
+PA166131610,niraparib,/chemical/PA166131610,1
+PA166131626,osimertinib,/chemical/PA166131626,1
+PA166151992,dapoxetine,/chemical/PA166151992,0
+PA166152935,ivacaftor / lumacaftor,/chemical/PA166152935,1
+PA166152940,tolperisone,/chemical/PA166152940,0
+PA166153431,flibanserin,/chemical/PA166153431,1
+PA166153469,palbociclib,/chemical/PA166153469,1
+PA166153470,ribociclib,/chemical/PA166153470,1
+PA166153471,abemaciclib,/chemical/PA166153471,1
+PA166153472,lenvatinib,/chemical/PA166153472,1
+PA166153473,venetoclax,/chemical/PA166153473,1
+PA166153491,brivaracetam,/chemical/PA166153491,1
+PA166159062,elosulfase alfa,/chemical/PA166159062,1
+PA166159961,alirocumab,/chemical/PA166159961,0
+PA166160002,dasabuvir / ombitasvir / paritaprevir / ritonavir,/chemical/PA166160002,1
+PA166160006,lesinurad,/chemical/PA166160006,1
+PA166160027,evolocumab,/chemical/PA166160027,0
+PA166160044,cobimetinib,/chemical/PA166160044,1
+PA166160048,lacosamide,/chemical/PA166160048,1
+PA166160050,alectinib,/chemical/PA166160050,1
+PA166160053,brexpiprazole,/chemical/PA166160053,1
+PA166160055,cholic acid,/chemical/PA166160055,0
+PA166160060,dinutuximab,/chemical/PA166160060,1
+PA166161216,aripiprazole lauroxil,/chemical/PA166161216,1
+PA166163260,moviprep,/chemical/PA166163260,0
+PA166163408,ombitasvir / paritaprevir / ritonavir,/chemical/PA166163408,1
+PA166163411,dasabuvir,/chemical/PA166163411,0
+PA166163416,sofosbuvir / velpatasvir,/chemical/PA166163416,1
+PA166163418,rucaparib,/chemical/PA166163418,1
+PA166163427,ledipasvir / sofosbuvir,/chemical/PA166163427,1
+PA166163432,eteplirsen,/chemical/PA166163432,1
+PA166163434,olaratumab,/chemical/PA166163434,1
+PA166163438,elbasvir / grazoprevir,/chemical/PA166163438,1
+PA166163482,brigatinib,/chemical/PA166163482,1
+PA166169875,avelumab,/chemical/PA166169875,1
+PA166169879,cerliponase alfa,/chemical/PA166169879,1
+PA166169881,deutetrabenazine,/chemical/PA166169881,1
+PA166169883,durvalumab,/chemical/PA166169883,1
+PA166169917,midostaurin,/chemical/PA166169917,1
+PA166170051,valbenazine,/chemical/PA166170051,1
+PA166175998,dextromethorphan / quinidine,/chemical/PA166175998,1
+PA166176008,erythromycin ethylsuccinate / sulfisoxazole acetyl,/chemical/PA166176008,1
+PA166176017,hydralazine / isosorbide dinitrate,/chemical/PA166176017,1
+PA166176018,lidocaine / prilocaine,/chemical/PA166176018,1
+PA166176020,sodium benzoate / sodium phenylacetate,/chemical/PA166176020,0
+PA166176022,isoniazid / pyrazinamide / rifampin,/chemical/PA166176022,1
+PA166176027,fluoxetine / olanzapine,/chemical/PA166176027,0
+PA166176033,efavirenz / emtricitabine / tenofovir disoproxil,/chemical/PA166176033,0
+PA166177476,cariprazine,/chemical/PA166177476,1
+PA166177484,enasidenib,/chemical/PA166177484,1
+PA166177510,inotuzumab ozogamicin,/chemical/PA166177510,1
+PA166177513,mirabegron,/chemical/PA166177513,1
+PA166177517,sofosbuvir / velpatasvir / voxilaprevir,/chemical/PA166177517,1
+PA166177519,umeclidinium,/chemical/PA166177519,1
+PA166179845,ivacaftor / tezacaftor,/chemical/PA166179845,1
+PA166179849,avatrombopag,/chemical/PA166179849,1
+PA166179867,binimetinib,/chemical/PA166179867,1
+PA166179872,encorafenib,/chemical/PA166179872,1
+PA166182002,amifampridine phosphate,/chemical/PA166182002,1
+PA166182279,dacomitinib,/chemical/PA166182279,1
+PA166182348,elagolix,/chemical/PA166182348,1
+PA166182707,ivosidenib,/chemical/PA166182707,1
+PA166182718,ipilimumab,/chemical/PA166182718,1
+PA166182720,erdafitinib,/chemical/PA166182720,1
+PA166182723,eribulin,/chemical/PA166182723,1
+PA166182733,larotrectinib sulfate,/chemical/PA166182733,1
+PA166182735,lidocaine and tetracaine,/chemical/PA166182735,1
+PA166182736,siponimod,/chemical/PA166182736,1
+PA166182740,talazoparib,/chemical/PA166182740,1
+PA166182743,lorlatinib,/chemical/PA166182743,1
+PA166182748,lusutrombopag,/chemical/PA166182748,1
+PA166182756,inotersen,/chemical/PA166182756,1
+PA166182761,duvelisib,/chemical/PA166182761,1
+PA166182763,emapalumab,/chemical/PA166182763,1
+PA166182767,gilteritinib,/chemical/PA166182767,1
+PA166182783,articaine / epinephrine,/chemical/PA166182783,1
+PA166182881,migalastat,/chemical/PA166182881,1
+PA166182882,nusinersen,/chemical/PA166182882,1
+PA166182883,ospemifene,/chemical/PA166182883,1
+PA166182885,oxymetazoline and tetracaine,/chemical/PA166182885,1
+PA166183785,amlodipine / atorvastatin / perindopril arginine,/chemical/PA166183785,0
+PA166183787,fluorouracil / salicylic acid,/chemical/PA166183787,0
+PA166183788,metabutethamine,/chemical/PA166183788,0
+PA166184057,bisoprolol fumarate / perindopril arginine,/chemical/PA166184057,0
+PA166184059,carbasalate calcium,/chemical/PA166184059,0
+PA166184061,acetaminophen / codeine,/chemical/PA166184061,0
+PA166184081,nicorandil,/chemical/PA166184081,0
+PA166184233,vernakalant,/chemical/PA166184233,0
+PA166184235,umeclidinium / vilanterol,/chemical/PA166184235,0
+PA166184379,letermovir,/chemical/PA166184379,0
+PA166184495,ezetimibe / simvastatin,/chemical/PA166184495,0
+PA166184496,acetaminophen / tramadol,/chemical/PA166184496,0
+PA166184497,"Paracetamol, combinations excl. Psycholeptics (Vicks MediNait Sirup)",/chemical/PA166184497,0
+PA166184498,ezetimibe / rosuvastatin,/chemical/PA166184498,0
+PA166184501,lamivudine / abacavir,/chemical/PA166184501,0
+PA166184503,zidovudine / lamivudine / abacavir,/chemical/PA166184503,0
+PA166184505,dolutegravir / abacavir / lamivudine,/chemical/PA166184505,0
+PA166184523,alpelisib,/chemical/PA166184523,1
+PA166184558,ramucirumab,/chemical/PA166184558,1
+PA166184562,tafamidis,/chemical/PA166184562,1
+PA166184566,tipiracil / trifluridine,/chemical/PA166184566,1
+PA166185150,amifampridine,/chemical/PA166185150,1
+PA166185163,pitolisant,/chemical/PA166185163,1
+PA166189801,crizanlizumab-tmca,/chemical/PA166189801,1
+PA166189802,voxelotor,/chemical/PA166189802,1
+PA166189803,upadacitinib,/chemical/PA166189803,1
+PA166190001,luspatercept-aamt,/chemical/PA166190001,1
+PA166190041,elexacaftor / tezacaftor / ivacaftor,/chemical/PA166190041,1
+PA166190121,enfortumab vedotin,/chemical/PA166190121,1
+PA166190161,entrectinib,/chemical/PA166190161,1
+PA166190221,estradiol / progesterone,/chemical/PA166190221,1
+PA166190621,fam-trastuzumab deruxtecan-nxki,/chemical/PA166190621,1
+PA166190681,givosiran,/chemical/PA166190681,1
+PA166190721,golodirsen,/chemical/PA166190721,1
+PA166223601,oliceridine,/chemical/PA166223601,0
+PA166223903,avapritinib,/chemical/PA166223903,1
+PA166224201,capmatinib,/chemical/PA166224201,1
+PA166224921,inebilizumab-cdon,/chemical/PA166224921,1
+PA166224941,isatuximab-irfc,/chemical/PA166224941,1
+PA166224981,dotatate lutenium lu-177,/chemical/PA166224981,1
+PA166225041,rimegepant,/chemical/PA166225041,1
+PA166225061,sacituzumab govitecan-hziy,/chemical/PA166225061,1
+PA166225084,selpercatinib,/chemical/PA166225084,1
+PA166225141,tucatinib,/chemical/PA166225141,1
+PA166235241,margetuximab,/chemical/PA166235241,1
+PA166235281,lumasiran,/chemical/PA166235281,1
+PA166235301,metreleptin,/chemical/PA166235301,1
+PA166235321,pralsetinib,/chemical/PA166235321,1
+PA166235322,risdiplam,/chemical/PA166235322,1
+PA166235323,satralizumab,/chemical/PA166235323,1
+PA166235341,setmelanotide,/chemical/PA166235341,1
+PA166236421,viltolarsen,/chemical/PA166236421,1
+PA166238763,"synthetic conjugated estrogens, A",/chemical/PA166238763,1
+PA448004,abacavir,/chemical/PA448004,1
+PA448015,acetaminophen,/chemical/PA448015,0
+PA448320,allopurinol,/chemical/PA448320,0
+PA448385,amitriptyline,/chemical/PA448385,1
+PA448405,amoxapine,/chemical/PA448405,1
+PA448408,amphetamine,/chemical/PA448408,1
+PA448432,anastrozole,/chemical/PA448432,1
+PA448486,arsenic trioxide,/chemical/PA448486,1
+PA448497,aspirin,/chemical/PA448497,0
+PA448500,atorvastatin,/chemical/PA448500,0
+PA448515,azathioprine,/chemical/PA448515,1
+PA448687,bupropion,/chemical/PA448687,1
+PA448691,busulfan,/chemical/PA448691,1
+PA448771,capecitabine,/chemical/PA448771,1
+PA448785,carbamazepine,/chemical/PA448785,1
+PA448809,carisoprodol,/chemical/PA448809,1
+PA448817,carvedilol,/chemical/PA448817,1
+PA448866,ceftriaxone,/chemical/PA448866,1
+PA448871,celecoxib,/chemical/PA448871,1
+PA448946,chloroprocaine,/chemical/PA448946,1
+PA448948,chloroquine,/chemical/PA448948,1
+PA448966,chlorpropamide,/chemical/PA448966,1
+PA449009,ciprofloxacin,/chemical/PA449009,0
+PA449014,cisplatin,/chemical/PA449014,1
+PA449015,citalopram,/chemical/PA449015,1
+PA449048,clomipramine,/chemical/PA449048,1
+PA449053,clopidogrel,/chemical/PA449053,1
+PA449061,clozapine,/chemical/PA449061,1
+PA449088,codeine,/chemical/PA449088,1
+PA449211,dapsone,/chemical/PA449211,1
+PA449233,desipramine,/chemical/PA449233,1
+PA449273,dextromethorphan,/chemical/PA449273,0
+PA449283,diazepam,/chemical/PA449283,1
+PA449383,docetaxel,/chemical/PA449383,1
+PA449394,donepezil,/chemical/PA449394,1
+PA449409,doxepin,/chemical/PA449409,1
+PA449421,dronabinol,/chemical/PA449421,1
+PA449441,efavirenz,/chemical/PA449441,1
+PA449461,enflurane,/chemical/PA449461,0
+PA449563,exemestane,/chemical/PA449563,1
+PA449594,fenofibrate,/chemical/PA449594,0
+PA449654,flucytosine,/chemical/PA449654,0
+PA449673,fluoxetine,/chemical/PA449673,1
+PA449683,flurbiprofen,/chemical/PA449683,1
+PA449685,flutamide,/chemical/PA449685,1
+PA449690,fluvoxamine,/chemical/PA449690,1
+PA449726,galantamine,/chemical/PA449726,1
+PA449761,glimepiride,/chemical/PA449761,1
+PA449762,glipizide,/chemical/PA449762,1
+PA449782,glibenclamide,/chemical/PA449782,0
+PA449841,haloperidol,/chemical/PA449841,0
+PA449969,imipramine,/chemical/PA449969,1
+PA449977,indinavir,/chemical/PA449977,0
+PA450085,irinotecan,/chemical/PA450085,1
+PA450106,isoflurane,/chemical/PA450106,1
+PA450112,isoniazid,/chemical/PA450112,0
+PA450125,isosorbide dinitrate,/chemical/PA450125,1
+PA450126,isosorbide mononitrate,/chemical/PA450126,1
+PA450180,lansoprazole,/chemical/PA450180,1
+PA450196,letrozole,/chemical/PA450196,1
+PA450268,losartan,/chemical/PA450268,0
+PA450338,meclizine,/chemical/PA450338,1
+PA450348,mefloquine,/chemical/PA450348,0
+PA450353,meloxicam,/chemical/PA450353,1
+PA450379,mercaptopurine,/chemical/PA450379,1
+PA450457,methylene blue,/chemical/PA450457,1
+PA450475,metoclopramide,/chemical/PA450475,1
+PA450480,metoprolol,/chemical/PA450480,1
+PA450529,mivacurium chloride,/chemical/PA450529,1
+PA450530,modafinil,/chemical/PA450530,1
+PA450555,moxifloxacin,/chemical/PA450555,0
+PA450603,nefazodone,/chemical/PA450603,1
+PA450606,nelfinavir,/chemical/PA450606,0
+PA450640,nitrofurantoin,/chemical/PA450640,1
+PA450644,nitroglycerin,/chemical/PA450644,0
+PA450654,norfloxacin,/chemical/PA450654,0
+PA450657,nortriptyline,/chemical/PA450657,1
+PA450684,ofloxacin,/chemical/PA450684,0
+PA450688,olanzapine,/chemical/PA450688,0
+PA450704,omeprazole,/chemical/PA450704,1
+PA450705,ondansetron,/chemical/PA450705,1
+PA450732,oxcarbazepine,/chemical/PA450732,1
+PA450741,oxycodone,/chemical/PA450741,0
+PA450774,pantoprazole,/chemical/PA450774,1
+PA450801,paroxetine,/chemical/PA450801,1
+PA450877,perindopril,/chemical/PA450877,0
+PA450882,perphenazine,/chemical/PA450882,1
+PA450947,phenytoin,/chemical/PA450947,1
+PA450965,pimozide,/chemical/PA450965,1
+PA450970,pioglitazone,/chemical/PA450970,0
+PA450985,piroxicam,/chemical/PA450985,1
+PA451089,pravastatin,/chemical/PA451089,0
+PA451101,prilocaine,/chemical/PA451101,0
+PA451103,primaquine,/chemical/PA451103,1
+PA451106,probenecid,/chemical/PA451106,1
+PA451108,procainamide,/chemical/PA451108,1
+PA451131,propafenone,/chemical/PA451131,1
+PA451145,propranolol,/chemical/PA451145,1
+PA451168,protriptyline,/chemical/PA451168,1
+PA451209,quinidine,/chemical/PA451209,1
+PA451213,quinine,/chemical/PA451213,1
+PA451216,rabeprazole,/chemical/PA451216,1
+PA451221,raloxifene,/chemical/PA451221,1
+PA451257,risperidone,/chemical/PA451257,1
+PA451260,ritonavir,/chemical/PA451260,0
+PA451261,rituximab,/chemical/PA451261,1
+PA451271,ropivacaine,/chemical/PA451271,1
+PA451341,sevoflurane,/chemical/PA451341,1
+PA451346,sildenafil,/chemical/PA451346,0
+PA451363,simvastatin,/chemical/PA451363,0
+PA451365,sirolimus,/chemical/PA451365,0
+PA451521,succimer,/chemical/PA451521,1
+PA451522,succinylcholine,/chemical/PA451522,1
+PA451539,sulfadiazine,/chemical/PA451539,1
+PA451547,sulfasalazine,/chemical/PA451547,1
+PA451578,tacrolimus,/chemical/PA451578,0
+PA451581,tamoxifen,/chemical/PA451581,1
+PA451583,tamsulosin,/chemical/PA451583,1
+PA451614,terbinafine,/chemical/PA451614,0
+PA451663,thioguanine,/chemical/PA451663,1
+PA451666,thioridazine,/chemical/PA451666,1
+PA451690,timolol,/chemical/PA451690,0
+PA451718,tolbutamide,/chemical/PA451718,1
+PA451731,toremifene,/chemical/PA451731,1
+PA451735,tramadol,/chemical/PA451735,1
+PA451743,trastuzumab,/chemical/PA451743,1
+PA451746,tretinoin,/chemical/PA451746,1
+PA451791,trimipramine,/chemical/PA451791,1
+PA451846,valproic acid,/chemical/PA451846,1
+PA451866,venlafaxine,/chemical/PA451866,1
+PA451879,vincristine,/chemical/PA451879,1
+PA451898,vitamin c,/chemical/PA451898,0
+PA451906,warfarin,/chemical/PA451906,1
+PA451978,zonisamide,/chemical/PA451978,0
+PA452200,antithrombotic agents,/chemical/PA452200,0
+PA452615,moclobemide,/chemical/PA452615,0
+PA452629,zuclopenthixol,/chemical/PA452629,0
+PA452632,acenocoumarol,/chemical/PA452632,0
