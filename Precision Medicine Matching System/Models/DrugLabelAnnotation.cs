@@ -13,11 +13,14 @@ namespace Precision_Medicine_Matching_System.Models
 		public string Id { get; set; }
 
 		[Required]
+		public string Name { get; set; }
+
+		[Required]
 		public string Source { get; set; }
 
 		[Required]
 		[Display(Name = "Dosing Information")]
-		public string DosingInformation { get; set; }
+		public bool DosingInformation { get; set; }
 
 		[Required]
 		[Display(Name = "Summary Markdown")]

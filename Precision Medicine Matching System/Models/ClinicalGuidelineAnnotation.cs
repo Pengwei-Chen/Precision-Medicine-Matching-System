@@ -16,10 +16,13 @@ namespace Precision_Medicine_Matching_System.Models
 		public string Name { get; set; }
 
 		[Required]
-		public string Recommendation { get; set; }
+		public bool Recommendation { get; set; }
 
 		[Required]
 		[Display(Name = "Drug ID")]
+		public string DrugId { get; set; }
+
+		[Required]
 		public string Source { get; set; }
 
 		[Required]

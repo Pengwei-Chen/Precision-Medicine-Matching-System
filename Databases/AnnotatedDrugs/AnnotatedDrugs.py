@@ -7,3 +7,4 @@ while(input_line):
     output.write(output_line)
     input_line = input.readline()
 input.close()
+output.close()

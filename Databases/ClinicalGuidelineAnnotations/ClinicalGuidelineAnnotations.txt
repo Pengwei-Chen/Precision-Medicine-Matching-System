@@ -1,0 +1,1377 @@
+PA166104931
+Annotation of DPWG Guideline for esomeprazole and CYP2C19
+0
+PA10075
+Dutch Pharmacogenetics Working Group
+No action is needed for this gene-drug interaction.
+
+
+
+
+PA166104933
+Annotation of CPIC Guideline for azathioprine and NUDT15,TPMT
+1
+PA448515
+Clinical Pharmacogenetics Implementation Consortium
+Consider an alternate agent or extreme dose reduction of azathioprine for patients who are TPMT or NUDT15 poor metabolizers. Start at 30-80% of target dose for patients who are TPMT or NUDT15 intermediate metabolizers.
+
+
+
+
+PA166104934
+Annotation of DPWG Guideline for azathioprine and TPMT
+1
+PA448515
+Dutch Pharmacogenetics Working Group
+Select an alternative drug or reduce the initial dose of azathioprine for patients that are TPMT poor metabolizers and reduce initial dose for patients that are TPMT intermediate metabolizers.
+
+
+
+
+PA166104935
+Annotation of DPWG Guideline for clozapine and CYP2D6
+0
+PA449061
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for clozapine based on CYP2D6 genotypes.
+
+
+
+
+PA166104937
+Annotation of DPWG Guideline for aripiprazole and CYP2D6
+1
+PA10026
+Dutch Pharmacogenetics Working Group
+The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group (DPWG) recommends reducing maximum dose of aripiprazole for patients carrying poor metabolizer alleles of CYP2D6.
+
+
+
+
+PA166104938
+Annotation of DPWG Guideline for acenocoumarol and VKORC1
+1
+PA452632
+Dutch Pharmacogenetics Working Group
+Patients with the VKORC1 -1639 (rs9923231) AA genotype should be given 50% of the standard initial dose of acenocoumarol and undergo more frequent INR monitoring. There are no recommendation for patients with the VKORC1 -1639 AG genotype.
+
+
+
+
+PA166104939
+Annotation of DPWG Guideline for fluorouracil and DPYD
+1
+PA128406956
+Dutch Pharmacogenetics Working Group
+An alternative drug to fluorouracil is recommended for patients with a DPYD activity score of 0; if an alternative drug is not possible, the DPD activity should be determined and the initial dose adjusted accordingly. For patients with a DPYD activity score of 1 or 1.5, start with 50% of the standard dose or choose an alternative drug; adjustment of subsequent doses should be guided by toxicity and effectiveness. Patients with two partially functional alleles or one non-functional and one partially functional allele or two gene variants leading to partially functional alleles or a gene variant leading to a non-functional allele and a gene variant leading to a partially functional allele should have their DPD activity determined or should avoid fluorouracil/capecitabine. Tegafur is not an alternative for fluorouracil, as it is also metabolized by DPD.
+
+
+
+
+PA166104940
+Annotation of DPWG Guideline for phenprocoumon and VKORC1
+1
+PA450921
+Dutch Pharmacogenetics Working Group
+Patients with the VKORC1 -1639 (rs9923231) AA genotype is recommended to be given 50% of the standard initial dose of phenprocoumon and more frequent monitoring of INR. The genotype-specific initial dose and maintenance dose can be calculated using an algorithm. There is no recommendation for patients with the VKORC1 -1639 AG genotype.
+
+
+
+
+PA166104941
+Annotation of DPWG Guideline for moclobemide and CYP2C19
+0
+PA452615
+Dutch Pharmacogenetics Working Group
+No action is needed for this gene-drug interaction.
+
+
+
+
+PA166104942
+Annotation of DPWG Guideline for duloxetine and CYP2D6
+0
+PA10066
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for duloxetine based on CYP2D6 genotype.
+
+
+
+
+PA166104943
+Annotation of DPWG Guideline for risperidone and CYP2D6
+0
+PA451257
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for risperidone based on CYP2D6 genotype.
+
+
+
+
+PA166104944
+Annotation of DPWG Guideline for tegafur and DPYD
+1
+PA452620
+Dutch Pharmacogenetics Working Group
+Choose an alternative drug to tegafur for patients with DPYD Activity Score of 0. For patients with a DPYD Activity Score of 1 or 1.5, avoid tegafur or start with a low dose and adjust the initial dose based on toxicity and efficacy. Fluorouracil and capecitabine are not alternatives for tegafur, as these are also metabolized by DPD.
+
+
+
+
+PA166104945
+Annotation of CPIC Guideline for mercaptopurine and NUDT15,TPMT
+1
+PA450379
+Clinical Pharmacogenetics Implementation Consortium
+Consider an alternate agent or extreme dose reduction of mercaptopurine for patients who are TPMT or NUDT15 poor metabolizers. Start at 30-80% of target dose for patients who are TPMT or NUDT15 intermediate metabolizers.
+
+
+
+
+PA166104946
+Annotation of DPWG Guideline for olanzapine and CYP2D6
+0
+PA450688
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for olanzapine based on CYP2D6 genotype.
+
+
+
+
+PA166104947
+Annotation of DPWG Guideline for ribavirin and HLA-B
+1
+PA451241
+Dutch Pharmacogenetics Working Group
+Although there is some evidence for lower treatment response in HLA-B*44 negative patients, there are no dosing recommendations for ribavirin at this time.
+
+
+
+
+PA166104948
+Annotation of CPIC Guideline for clopidogrel and CYP2C19
+1
+PA449053
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for clopidogrel recommends an alternative antiplatelet therapy (e.g., prasugrel, ticagrelor) for CYP2C19 poor or intermediate metabolizers if there is no contraindication.
+
+
+
+
+PA166104949
+Annotation of CPIC Guideline for warfarin and CYP2C9,CYP4F2,VKORC1
+1
+PA451906
+Clinical Pharmacogenetics Implementation Consortium
+The updated guideline for pharmacogenetics-guided warfarin dosing is published by the Clinical Pharmacogenetics Implementation Consortium. The recommendations for dosing are for adult and pediatric patients that are specific to continental ancestry, and are based on genotypes from CYP2C9, VKORC1, CYP4F2, and rs12777823.
+
+
+
+
+PA166104951
+Annotation of DPWG Guideline for irinotecan and UGT1A1
+1
+PA450085
+Dutch Pharmacogenetics Working Group
+Dose reductions are recommended for irinotecan for patients who are UGT1A1 *28/*28 or UGT1A1 PM, starting with 70% of starting dose and increasing as tolerated, guided by neutrophil count.
+
+
+
+
+PA166104952
+Annotation of DPWG Guideline for mercaptopurine and TPMT
+1
+PA450379
+Dutch Pharmacogenetics Working Group
+Select an alternative drug or reduce the initial dose of mercaptopurine for patients that are TPMT poor metabolizers and reduce initial dose for patients that are TPMT intermediate metabolizers.
+
+
+
+
+PA166104953
+Annotation of DPWG Guideline for glibenclamide and CYP2C9
+0
+PA449782
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for glibenclamide based on CYP2C9 genotype.
+
+
+
+
+PA166104954
+Annotation of DPWG Guideline for imipramine and CYP2C19
+1
+PA449969
+Dutch Pharmacogenetics Working Group
+CYP2C19 poor metabolizers should receive 70% of the standard dose of imipramine, or imipramine should be avoided in these patients. Patients should be monitored for the effect and side effects or the plasma concentrations of imipramine and desipramine in order to set the maintenance dose.
+
+
+
+
+PA166104955
+Annotation of DPWG Guideline for hormonal contraceptives for systemic use and F5
+1
+PA452637
+Dutch Pharmacogenetics Working Group
+In individuals who carry the Factor V Leiden allele and have a family history of thrombotic events, estrogen-containing oral contraceptives should be avoided and alternative forms of contraception used.
+
+
+
+
+PA166104956
+Annotation of DPWG Guideline for clopidogrel and CYP2C19
+1
+PA449053
+Dutch Pharmacogenetics Working Group
+Avoid clopidogrel use in patients who are CYP2C19 poor metabolizers and are undergoing percutaneous coronary intervention, stroke or TIA. For CYP2C19 intermediate metabolizers who are undergoing percutaneous coronary intervention, stroke, or TIA, choose an alternative drug or double the dose to 150 mg/day (600 mg loading dose). No action is required for patients who are CYP2C19 ultra-rapid metabolizers.
+
+
+
+
+PA166104957
+Annotation of DPWG Guideline for omeprazole and CYP2C19
+1
+PA450704
+Dutch Pharmacogenetics Working Group
+For CYP2C19 ultrarapid metabolizers who are undergoing H. pylori eradication therapy, use a 3-fold higher dose. For CYP2C19 ultrarapid metabolizers with other indications, be alert to reduced effectiveness and, if necessary, use a 3-fold higher dose.
+
+
+
+
+PA166104958
+Annotation of DPWG Guideline for pantoprazole and CYP2C19
+1
+PA450774
+Dutch Pharmacogenetics Working Group
+For CYP2C19 ultrarapid metabolizers who are undergoing H. pylori eradication therapy, use a 5-fold higher dose. For CYP2C19 ultrarapid metabolizers with other indications, be alert to reduced effectiveness and, if necessary, use a 5-fold higher dose.
+
+
+
+
+PA166104959
+Annotation of DPWG Guideline for tramadol and CYP2D6
+1
+PA451735
+Dutch Pharmacogenetics Working Group
+Be alert to a reduced efficacy of tramadol in CYP2D6 intermediate or poor metabolizers. If tramadol is not effective in these patients, try a dose increase or select an alternative to tramadol (not codeine) and be alert for symptoms of insufficient pain relief. For CYP2D6 ultrarapid metabolizers, use an alternative to tramadol (not codeine) or use 40% of the standard dose and be alert to side effects.
+
+
+
+
+PA166104960
+Annotation of DPWG Guideline for thioguanine and TPMT
+1
+PA451663
+Dutch Pharmacogenetics Working Group
+Select an alternative drug or reduce the initial dose of thioguanine for patients that are TPMT poor metabolizers and reduce initial dose for patients that are TPMT intermediate metabolizers.
+
+
+
+
+PA166104961
+Annotation of DPWG Guideline for nortriptyline and CYP2D6
+1
+PA450657
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for nortriptyline recommends a dose reduction for CYP2D6 poor or intermediate metabolizer patients. For CYP2D6 ultrarapid metabolizers, select an alternative drug or use 1.7 times the standard dose. Monitoring of nortriptyline and 10-hydroxynortriptyline plasma concentrations is recommended.
+
+
+
+
+PA166104962
+Annotation of DPWG Guideline for propafenone and CYP2D6
+1
+PA451131
+Dutch Pharmacogenetics Working Group
+Reduce the dose of propafenone by 70% for CYP2D6 poor metabolizers, and monitor pimozide plasma concentrations or use an alternative drug for CYP2D6 intermediate and ultrarapid metabolizers.
+
+
+
+
+PA166104963
+Annotation of DPWG Guideline for capecitabine and DPYD
+1
+PA448771
+Dutch Pharmacogenetics Working Group
+An alternative drug to capecitabine is recommended for patients with a DPYD activity score of 0; if an alternative drug is not possible, the DPD activity should be determined and the initial dose adjusted accordingly. For patients with a DPYD activity score of 1 or 1.5, start with 50% of the standard dose or choose an alternative drug; adjustment of subsequent doses should be guided by toxicity and effectiveness. Patients with two partially functional alleles or one non-functional and one partially functional allele or two gene variants leading to partially functional alleles or a gene variant leading to a non-functional allele and a gene variant leading to a partially functional allele should have their DPD activity determined or should avoid fluorouracil/capecitabine. Tegafur is not an alternative for capecitabine, as it is also metabolized by DPD.
+
+
+
+
+PA166104964
+Annotation of DPWG Guideline for clomipramine and CYP2D6
+1
+PA449048
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for clomipramine recommends dose changes and to monitor the effect and side effects and the plasma concentrations to set the maintenance dose for CYP2D6 poor (PM), and intermediate (IM) metabolizer or to avoid clomipramine in PM and ultrarapid (UM) metabolizer.
+
+
+
+
+PA166104965
+Annotation of CPIC Guideline for thioguanine and NUDT15,TPMT
+1
+PA451663
+Clinical Pharmacogenetics Implementation Consortium
+Consider an alternate agent or extreme dose reduction of thioguanine for patients who are TPMT or NUDT15 poor metabolizers. Start at 50-80% of target dose for patients who are TPMT or NUDT15 intermediate metabolizers.
+
+
+
+
+PA166104966
+Annotation of DPWG Guideline for tamoxifen and CYP2D6
+1
+PA451581
+Dutch Pharmacogenetics Working Group
+For CYP2D6 poor and intermediate metabolizers, consider an alternative medication or a dose increase. For intermediate metabolizers, avoid concomitant CYP2D6 inhibitor use.
+
+
+
+
+PA166104967
+Annotation of DPWG Guideline for mirtazapine and CYP2D6
+0
+PA450522
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for mirtazapine based on CYP2D6 genotype.
+
+
+
+
+PA166104968
+Annotation of DPWG Guideline for venlafaxine and CYP2D6
+1
+PA451866
+Dutch Pharmacogenetics Working Group
+For CYP2D6 poor (PM) and intermediate metabolizers (IM), select an alternative to venlafaxine or reduce the dose and monitor patient's plasma metabolite level. For CYP2D6 ultrarapid metabolizers (UM), increase dose to 150% of the normal dose or select an alternative to venlafaxine.
+
+
+
+
+PA166104969
+Annotation of DPWG Guideline for flecainide and CYP2D6
+1
+PA449646
+Dutch Pharmacogenetics Working Group
+Reduce flecainide dose by 50% for CYP2D6 poor metabolizer (PM) and record an ECG and monitor the plasma concentration. Reduce flecainide dose to 75% of the standard dose for CYP2D6 intermediate metabolizer (IM) patients with indications other than diagnosis of Brugada syndrome and record an ECG and monitor the plasma concentration.
+
+
+
+
+PA166104970
+Annotation of DPWG Guideline for codeine and CYP2D6
+1
+PA449088
+Dutch Pharmacogenetics Working Group
+The Pharmacogenetics Working Group Guideline for codeine includes individual recommendations for cough or pain for CYP2D6 poor, intermediate, and ultrarapid metabolizer. In addition, for ultrarapid metabolizer, higher or lower doses and additional risk factors are taken into consideration.
+
+
+
+
+PA166104971
+Annotation of DPWG Guideline for gliclazide and CYP2C9
+0
+PA10892
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for gliclazide based on CYP2C9 genotype.
+
+
+
+
+PA166104972
+Annotation of DPWG Guideline for imipramine and CYP2D6
+1
+PA449969
+Dutch Pharmacogenetics Working Group
+CYP2D6 poor metabolizers should receive 30% of the standard dose of imipramine, CYP2D6 intermediate metabolizers should receive 70% of the standard dose, and CYP2D6 ultra-rapid metabolizers should receive 1.7 times the standard dose. Patients should be monitored for the effect and side effects or the plasma concentrations of imipramine and desipramine in order to set the maintenance dose.
+
+
+
+
+PA166104973
+Annotation of DPWG Guideline for oxycodone and CYP2D6
+0
+PA450741
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for oxycodone based on CYP2D6 genotypes.
+
+
+
+
+PA166104974
+Annotation of DPWG Guideline for carvedilol and CYP2D6
+0
+PA448817
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for carvedilol based on CYP2D6 genotype.
+
+
+
+
+PA166104975
+Annotation of DPWG Guideline for escitalopram and CYP2C19
+1
+PA10074
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for escitalopram recommends for intermediate and poor metabolizers of CYP2C19 to not exceed the in the DPWG document specified doses and for CYP2C19 ultrarapid metabolizer to avoid escitalopram.
+
+
+
+
+PA166104976
+Annotation of DPWG Guideline for paroxetine and CYP2D6
+1
+PA450801
+Dutch Pharmacogenetics Working Group
+Select an alternative drug rather than paroxetine for CYP2D6 ultrarapid metabolizer patients.
+
+
+
+
+PA166104977
+Annotation of DPWG Guideline for citalopram and CYP2C19
+1
+PA449015
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for citalopram recommends for intermediate and poor metabolizers of CYP2C19 to not exceed the in the DPWG document specified daily doses.
+
+
+
+
+PA166104978
+Annotation of DPWG Guideline for glimepiride and CYP2C9
+1
+PA449761
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for glimepiride based on CYP2C9 genotype.
+
+
+
+
+PA166104979
+Annotation of DPWG Guideline for acenocoumarol and CYP2C9
+0
+PA452632
+Dutch Pharmacogenetics Working Group
+There are currently no recommendations for acenocoumarol dosing based on CYP2C9 genotypes.
+
+
+
+
+PA166104980
+Annotation of DPWG Guideline for sertraline and CYP2C19
+1
+PA451333
+Dutch Pharmacogenetics Working Group
+Do not give doses exceeding 75 mg/day in patients with CYP2C19 poor metabolizer genotypes, and guide the dose by response and side effects and/or sertraline plasma concentration.
+
+
+
+
+PA166104981
+Annotation of DPWG Guideline for flupenthixol and CYP2D6
+0
+PA10268
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for flupenthixol based on CYP2D6 genotype.
+
+
+
+
+PA166104982
+Annotation of DPWG Guideline for amitriptyline and CYP2D6
+1
+PA448385
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for amitriptyline recommends decreasing the dose for CYP2D6 intermediate and CYP2D6 poor metabolizers and increasing the dose or using an alternative drug for CYP2D6 ultra-rapid metabolizers.
+
+
+
+
+PA166104983
+Annotation of DPWG Guideline for tacrolimus and CYP3A5
+1
+PA451578
+Dutch Pharmacogenetics Working Group
+Increased doses of tacrolimus are recommended for CYP3A5 heterozygous and homozygous expressors and adjusted as needed. Instructions for liver transplantation patients include genotypes of both patient and donor. Where heterozygous CYP3A5 expressor is most commonly CYP3A5*1/*3, and homozygous CYP3A5 expressor most commonly CYP3A5*1/*1.
+
+
+
+
+PA166104984
+Annotation of DPWG Guideline for phenytoin and CYP2C9
+1
+PA450947
+Dutch Pharmacogenetics Working Group
+Use the standard starting dose of phenytoin and reduce the maintenance dose based on CYP2C9 genotype; monitor response and serum concentrations and be aware of ADEs.
+
+
+
+
+PA166104985
+Annotation of DPWG Guideline for rabeprazole and CYP2C19
+0
+PA451216
+Dutch Pharmacogenetics Working Group
+No action is needed for this gene-drug interaction.
+
+
+
+
+PA166104986
+Annotation of DPWG Guideline for tolbutamide and CYP2C9
+0
+PA451718
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for tolbutamide based on CYP2C9 genotype.
+
+
+
+
+PA166104987
+Annotation of DPWG Guideline for lansoprazole and CYP2C19
+1
+PA450180
+Dutch Pharmacogenetics Working Group
+For CYP2C19 ultrarapid metabolizers who are undergoing H. pylori eradication therapy, use a 4-fold higher dose. For CYP2C19 ultrarapid metabolizers with other indications, be alert to reduced effectiveness and, if necessary, use a 4-fold higher dose.
+
+
+
+
+PA166104988
+Annotation of DPWG Guideline for haloperidol and CYP2D6
+1
+PA449841
+Dutch Pharmacogenetics Working Group
+Reduce haloperidol dose by 50% or select an alternative drug for CYP2D6 poor metabolizer (PM) genotype patients.
+
+
+
+
+PA166104989
+Annotation of DPWG Guideline for atomoxetine and CYP2D6
+1
+PA134688071
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for atomoxetine states for CYP2D6 ultrarapid metabolizers, to be alert to reduced efficacy of atomoxetine or select an alternative drug as a precaution. Be alert to ADEs in CYP2D6 poor metabolizers.
+
+
+
+
+PA166104990
+Annotation of DPWG Guideline for voriconazole and CYP2C19
+1
+PA10233
+Dutch Pharmacogenetics Working Group
+Patients who are CYP2C19 poor metabolizers should receive 50% of the standard dose, and CYP2C19 ultrarapid metabolizers should receive a 1.5 times higher initial dose. Monitor voriconazole plasma concentrations for CYP2C19 poor, intermediate and ultrarapid metabolizers.
+
+
+
+
+PA166104991
+Annotation of DPWG Guideline for abacavir and HLA-B
+1
+PA448004
+Dutch Pharmacogenetics Working Group
+Avoid abacavir for patients who have the HLA-B*57:01 allele (patients who are &quot;HLA-B*57:01-positive&quot;).
+
+
+
+
+PA166104992
+Annotation of DPWG Guideline for zuclopenthixol and CYP2D6
+1
+PA452629
+Dutch Pharmacogenetics Working Group
+For CYP2D6 poor and intermediate metabolizers, reduce zuclopenthixol dose or select an alternative drug that is not metabolized by CYP2D6. For ultrarapid metabolizers, be alert to low zuclopenthixol plasma concentrations and, if necessary, increase the dose or select an alternative drug.
+
+
+
+
+PA166104993
+Annotation of PRO Guideline for allopurinol and HLA-B
+1
+PA448320
+Professional Society
+HLA-B*58:01-positive individuals (those with the HLA-B*58:01 variant allele) should be prescribed an alternative drug to allopurinol.
+
+
+
+
+PA166104994
+Annotation of DPWG Guideline for doxepin and CYP2D6
+1
+PA449409
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for doxepin recommends dose changes and to monitor the effect and side effects or the plasma concentrations to set the maintenance dose for CYP2D6 poor (PM), intermediate (IM), and ultrarapid (UM) metabolizer or to avoid doxepin in UM.
+
+
+
+
+PA166104995
+Annotation of DPWG Guideline for metoprolol and CYP2D6
+1
+PA450480
+Dutch Pharmacogenetics Working Group
+For CYP2D6 poor and intermediate metabolizer patients, if a GRADUAL REDUCTION in HEART RATE is desired, or in the event of SYMPTOMATIC BRADYCARDIA, increase the dose in smaller steps and/or prescribe no more than 25% or 50% of the standard dose, respectively. For CYP2D6 ultra metabolizers, use the maximum dose for the relevant indication as a target dose, and if the effectiveness is still insufficient: increase the dose based on effectiveness and side effects to 2.5 times the standard dose or select an alternative drug.
+
+
+
+
+PA166104996
+Annotation of CPIC Guideline for codeine and CYP2D6
+1
+PA449088
+Clinical Pharmacogenetics Implementation Consortium
+Alternate analgesics are recommended for CYP2D6 ultrarapid and poor metabolizers. A label recommended age- or weight-specific codeine dose is warranted for CYP2D6 extensive and intermediate metabolizers.
+
+
+
+
+PA166104997
+Annotation of CPIC Guideline for abacavir and HLA-B
+1
+PA448004
+Clinical Pharmacogenetics Implementation Consortium
+In individuals with the HLA-B*57:01 variant allele (&quot;HLA-B*57:01-positive&quot;), abacavir is not recommended and should be considered only under exceptional circumstances. See full guideline for disclaimers, further details and supporting evidence.
+
+
+
+
+PA166104998
+Annotation of CPIC Guideline for nortriptyline and CYP2D6
+1
+PA450657
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline update for nortriptyline recommends a 25% dose reduction for CYP2D6 intermediate metabolizers. For CYP2D6 ultrarapid or poor metabolizers, an alternative drug should be considered. If nortriptyline is warranted, consider a 50% dose reduction in CYP2D6 poor metabolizers.
+
+
+
+
+PA166104999
+Annotation of CPIC Guideline for imipramine and CYP2C19,CYP2D6
+1
+PA449969
+Clinical Pharmacogenetics Implementation Consortium
+Tricyclic antidepressants have comparable pharmacokinetic properties, it may be reasonable to apply the CPIC Dosing Guideline for amitriptyline and CYP2C19, CYP2D6 to other tricyclics including imipramine. The CPIC Dosing Guideline update for amitriptyline recommends an alternative drug for CYP2D6 ultrarapid or poor metabolizers and CYP2C19 ultrarapid, rapid or poor metabolizers. If amitriptyline is warranted, consider a 50% dose reduction in CYP2D6 or CYP2C19 poor metabolizers. For CYP2D6 intermediate metabolizers, a 25% dose reduction should be considered.
+
+
+
+
+PA166105000
+Annotation of CPIC Guideline for doxepin and CYP2C19,CYP2D6
+1
+PA449409
+Clinical Pharmacogenetics Implementation Consortium
+Tricyclic antidepressants have comparable pharmacokinetic properties, it may be reasonable to apply the CPIC Dosing Guideline for amitriptyline and CYP2C19, CYP2D6 to other tricyclics including doxepin. The CPIC Dosing Guideline update for amitriptyline recommends an alternative drug for CYP2D6 ultrarapid or poor metabolizers and CYP2C19 ultrarapid, rapid or poor metabolizers. If amitriptyline is warranted, consider a 50% dose reduction in CYP2D6 or CYP2C19 poor metabolizers. For CYP2D6 intermediate metabolizers, a 25% dose reduction should be considered.
+
+
+
+
+PA166105001
+Annotation of CPIC Guideline for trimipramine and CYP2C19,CYP2D6
+1
+PA451791
+Clinical Pharmacogenetics Implementation Consortium
+Tricyclic antidepressants have comparable pharmacokinetic properties, it may be reasonable to apply the CPIC Dosing Guideline for amitriptyline and CYP2C19, CYP2D6 to other tricyclics including trimipramine. The CPIC Dosing Guideline update for amitriptyline recommends an alternative drug for CYP2D6 ultrarapid or poor metabolizers and CYP2C19 ultrarapid, rapid or poor metabolizers. If amitriptyline is warranted, consider a 50% dose reduction in CYP2D6 or CYP2C19 poor metabolizers. For CYP2D6 intermediate metabolizers, a 25% dose reduction should be considered.
+
+
+
+
+PA166105002
+Annotation of CPIC Guideline for desipramine and CYP2D6
+1
+PA449233
+Clinical Pharmacogenetics Implementation Consortium
+Tricyclic antidepressants have comparable pharmacokinetic properties, it may be reasonable to apply the CPIC Dosing Guideline for amitriptyline/nortriptyline and CYP2C19, CYP2D6 to other tricyclics including desipramine. The CPIC Dosing Guideline update for nortriptyline recommends a 25% dose reduction for CYP2D6 intermediate metabolizers. For CYP2D6 ultrarapid or poor metabolizers, an alternative drug should be considered. If nortriptyline is warranted, consider a 50% dose reduction in CYP2D6 poor metabolizers.
+
+
+
+
+PA166105003
+Annotation of CPIC Guideline for allopurinol and HLA-B
+1
+PA448320
+Clinical Pharmacogenetics Implementation Consortium
+Allopurinol is contraindicated in individuals with the HLA-B*58:01 variant allele (&quot;HLA-B*58:01-positive&quot;) due to significantly increased risk of allopurinol-induced SCAR.
+
+
+
+
+PA166105004
+Annotation of DPWG Guideline for phenprocoumon and CYP2C9
+0
+PA450921
+Dutch Pharmacogenetics Working Group
+There are currently no recommendations for phenprocoumon dosing based on CYP2C9 genotypes.
+
+
+
+
+PA166105005
+Annotation of CPIC Guideline for simvastatin and SLCO1B1
+1
+PA451363
+Clinical Pharmacogenetics Implementation Consortium
+The FDA recommends against 80mg daily simvastatin dosage. In patients with the C allele at SLCO1B1 rs4149056, there are modest increases in myopathy risk even at lower simvastatin doses (40mg daily); if optimal efficacy is not achieved with a lower dose, alternate agents should be considered.
+
+
+
+
+PA166105006
+Annotation of CPIC Guideline for amitriptyline and CYP2C19,CYP2D6
+1
+PA448385
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline update for amitriptyline recommends an alternative drug for CYP2D6 ultrarapid or poor metabolizers and CYP2C19 ultrarapid, rapid or poor metabolizers. If amitriptyline is warranted, consider a 50% dose reduction in CYP2D6 or CYP2C19 poor metabolizers. For CYP2D6 intermediate metabolizers, a 25% dose reduction should be considered.
+
+
+
+
+PA166105007
+Annotation of CPIC Guideline for clomipramine and CYP2C19,CYP2D6
+1
+PA449048
+Clinical Pharmacogenetics Implementation Consortium
+Tricyclic antidepressants have comparable pharmacokinetic properties, it may be reasonable to apply the CPIC Dosing Guideline for amitriptyline and CYP2C19, CYP2D6 to other tricyclics including clomipramine. The CPIC Dosing Guideline update for amitriptyline recommends an alternative drug for CYP2D6 ultrarapid or poor metabolizers and CYP2C19 ultrarapid, rapid or poor metabolizers. If amitriptyline is warranted, consider a 50% dose reduction in CYP2D6 or CYP2C19 poor metabolizers. For CYP2D6 intermediate metabolizers, a 25% dose reduction should be considered.
+
+
+
+
+PA166105008
+Annotation of CPIC Guideline for carbamazepine and HLA-A,HLA-B
+1
+PA448785
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline update for carbamazepine recommends an alternative drug for carbamazepine-naive patients carrying at least one copy of either HLA-B*15:02 or HLA-A*31:01 due to the association of those alleles with an increased risk of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). In addition, HLA-A*31:01 is associated with an increased risk of drug reaction with eosinophilia and systemic symptoms (DRESS) and maculopapular exanthema (MPE).
+
+
+
+
+PA166109594
+Annotation of CPIC Guideline for capecitabine and DPYD
+1
+PA448771
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for 5-fluorouracil and capecitabine recommends an alternative drug for patients who are DPYD poor metabolizers with an activity score of 0. In those who are poor metabolizers with an activity score of 0.5, an alternative drug is also recommended, but if this is not considered a suitable therapeutic option, 5-fluorouracil or capecitabine should be administered at a strongly reduced dose with early therapeutic drug monitoring. Patients who are intermediate metabolizers with an activity score of 1 or 1.5 should receive a dose reduction of 50%. Patients with the c.[2846A&gt;T];[2846A&gt;T] genotype may require a &gt;50% dose reduction.
+
+
+
+
+PA166110235
+Annotation of CPIC Guideline for peginterferon alfa-2a,peginterferon alfa-2b,ribavirin and IFNL3
+1
+PA164749390
+Clinical Pharmacogenetics Implementation Consortium
+IFNL3 (IL28B) variation (rs12979860) is the strongest baseline predictor of response to PEG-interferon-alpha-containing regimens in HCV genotype 1 patients. Patients with the favorable response genotype (rs12979860 CC) have increased likelihood of response (higher SVR rate) to PEG-interferon-alpha-containing regimens as compared to patients with unfavorable response genotype (rs12979860 CT or TT). Consider implications before initiating PEG-IFN alpha and RBV containing regimens.
+
+
+
+
+PA166114461
+Annotation of CPIC Guideline for ivacaftor and CFTR
+1
+PA165950341
+Clinical Pharmacogenetics Implementation Consortium
+Ivacaftor treatment is recommended only in cystic fibrosis (CF) patients that are either homozygous or heterozygous for certain CFTR variants. See full guideline for disclaimers, further details and supporting evidence.
+
+
+
+
+PA166117280
+Annotation of CPNDS Guideline for carbamazepine and HLA-B
+1
+PA448785
+Canadian Pharmacogenomics Network for Drug Safety
+The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of HLA-B*15:02 genotype when prescribing carbamazepine (CBZ). They recommend that carbamazepine not be prescribed for CBZ-naive patients who carry at least one HLA-B*15:02 allele.
+
+
+
+
+PA166117281
+Annotation of CPNDS Guideline for carbamazepine and HLA-A
+1
+PA448785
+Canadian Pharmacogenomics Network for Drug Safety
+The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of HLA-A*31:01 genotype when prescribing carbamazepine (CBZ). They recommend that carbamazepine not be prescribed for CBZ-naive patients who carry at least one HLA-A*31:01 allele.
+
+
+
+
+PA166119846
+Annotation of CPIC Guideline for rasburicase and G6PD
+1
+PA10176
+Clinical Pharmacogenetics Implementation Consortium
+Rasburicase is contraindicated in G6PD deficient patients with or without chronic non-spherocytic hemolytic anemia (CNSHA). In patients with a negative or inconclusive genetic test result an enzyme activity test is recommended prior to rasburicase treatment to determine whether a patient is G6PD deficient. The G6PD gene is X-linked and therefore males only have one copy, whereas females have two copies. See full guideline for disclaimers, further details and supporting evidence.
+
+
+
+
+PA166122666
+Annotation of CPNDS Guideline for codeine and CYP2D6
+1
+PA449088
+Canadian Pharmacogenomics Network for Drug Safety
+The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of CYP2D6 genotype when prescribing codeine. They recommend that poor metabolizers of CYP2D6 should not receive codeine for pain relief, and ultrametabolizers of CYP2D6 should avoid codeine for pain relief.
+
+
+
+
+PA166122686
+Annotation of CPIC Guideline for fluorouracil and DPYD
+1
+PA128406956
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for 5-fluorouracil and capecitabine recommends an alternative drug for patients who are DPYD poor metabolizers with an activity score of 0. In those who are poor metabolizers with an activity score of 0.5, an alternative drug is also recommended, but if this is not considered a suitable therapeutic option, 5-fluorouracil or capecitabine should be administered at a strongly reduced dose with early therapeutic drug monitoring. Patients who are intermediate metabolizers with an activity score of 1 or 1.5 should receive a dose reduction of 50%. Patients with the c.[2846A&gt;T];[2846A&gt;T] genotype may require a &gt;50% dose reduction.
+
+
+
+
+PA166122687
+Annotation of CPIC Guideline for tegafur and DPYD
+0
+PA452620
+Clinical Pharmacogenetics Implementation Consortium
+As of the November 2017 update of CPIC guidelines regarding fluoropyrimidine dosing, there are no longer dosing recommendations for tegafur based on DPYD genotype. This is due to limited evidence regarding the impact of DPYD variants on tegafur toxicity risk. The guidelines currently only apply to 5-fluorouracil and capecitabine dosing.
+
+
+
+
+PA166122806
+Annotation of CPIC Guideline for phenytoin and CYP2C9,HLA-B
+1
+PA450947
+Clinical Pharmacogenetics Implementation Consortium
+Phenytoin is contraindicated in individuals with the HLA-B*15:02 variant allele (&quot;HLA-B*15:02-positive&quot;) due to significantly increased risk of phenytoin-induced cutaneous adverse reactions of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). Additionally, patients with the CYP2C9 poor metabolizer phenotype may require reduced doses of phenytoin.
+
+
+
+
+PA166124619
+Annotation of CPIC Guideline for tacrolimus and CYP3A5
+1
+PA451578
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC dosing guideline for tacrolimus recommends increasing the starting dose by 1.5 to 2 times the recommended starting dose in patients who are CYP3A5 intermediate or extensive metabolizers, though total starting dose should not exceed 0.3 mg/kg/day. Therapeutic drug monitoring should also be used to guide dose adjustments.
+
+
+
+
+PA166127626
+Annotation of PRO Guideline for irinotecan and UGT1A1
+1
+PA450085
+Professional Society
+A French joint working group comprising the National Pharmacogenetics Network (RNPGx) and the Group of Clinical Onco-pharmacology (GPCO-Unicancer) has published guidelines for the use of UGT1A1*28 genotype when prescribing irinotecan. They recommend that the dose of irinotecan be reduced in patients with the UGT1A1*28/*28 genotype, and that high-dose irinotecan (&gt;=240 mg/m2) only be prescribed to patients with the UGT1A1*1/*1 genotype.
+
+
+
+
+PA166127636
+Annotation of CPIC Guideline for paroxetine and CYP2D6
+1
+PA450801
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for the selective serotonin reuptake inhibitor paroxetine recommends an alternative drug not predominantly metabolized by CYP2D6 for CYP2D6 ultrarapid metabolizers and for CYP2D6 poor metabolizers. For CYP2D6 poor metabolizers, if paroxetine use is warranted, consider a 50% reduction of recommended starting dose and titrate to response.
+
+
+
+
+PA166127637
+Annotation of CPIC Guideline for fluvoxamine and CYP2D6
+1
+PA449690
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for the selective serotonin reuptake inhibitor fluvoxamine recommends to consider a 25-50% reduction of recommended starting dose and titrate to response or use an alternative drug not metabolized by CYP2D6 for CYP2D6 poor metabolizers.
+
+
+
+
+PA166127638
+Annotation of CPIC Guideline for citalopram,escitalopram and CYP2C19
+1
+PA449015
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for the selective serotonin reuptake inhibitors citalopram and escitalopram recommends an alternative drug not predominantly metabolized by CYP2C19 for CYP2C19 ultrarapid metabolizers. For CYP2C19 poor metabolizers, consider a 50% reduction of recommended starting dose and titrate to response or select alternative drug not predominantly metabolized by CYP2C19.
+
+
+
+
+PA166127639
+Annotation of CPIC Guideline for sertraline and CYP2C19
+1
+PA451333
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for the selective serotonin reuptake inhibitor sertraline recommends to consider a 50% reduction of recommended starting dose and titrate to response or select alternative drug not predominantly metabolized by CYP2C19 for CYP2C19 poor metabolizers.
+
+
+
+
+PA166128738
+Annotation of CPIC Guideline for atazanavir and UGT1A1
+1
+PA10251
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC dosing guideline recommends considering advising individuals who carry two decreased function UGT1A1 alleles about a substantial likelihood of developing jaundice, which may cause non-adherence. The dosing guideline recommends that alternative agents be considered if the risk of non-adherence due to jaundice is high. The risk of discontinuation is low and very low for individuals carrying one, or no decreased function UGT1A1 alleles, respectively.
+
+
+
+
+PA166159180
+Annotation of CPNDS Guideline for daunorubicin,doxorubicin and RARG,SLC28A3,UGT1A6
+1
+PA449212
+Canadian Pharmacogenomics Network for Drug Safety
+The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of RARG , SLC28A3 , and UGT1A6 when prescribing anthracyclines for pediatric cancer patients. They recommend that pharmacogenomic testing of RARG rs2229774, SLC28A3 rs7853758, and UGT1A6 *4 (rs17863783) should be performed in all pediatric cancer patients who are treated with daunorubicin or doxorubicin because the association of those genetic variants with anthracycline associated cardiotoxicity (ACT).
+
+
+
+
+PA166161537
+Annotation of CPIC Guideline for voriconazole and CYP2C19
+1
+PA10233
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC dosing guideline for voriconazole recommends selecting an alternative agent that is not dependent on CYP2C19 metabolism in adults who are CYP2C19 ultrarapid metabolizers, rapid metabolizers or poor metabolizers. In pediatric patients, an alternative agent should be used in patients who are ultrarapid metabolizers or poor metabolizers. In pediatric rapid metabolizers, therapy should be initiated at recommended standard case dosing, then therapeutic dosing monitoring should be used to titrate dose to therapeutic trough concentrations.
+
+
+
+
+PA166161954
+Annotation of CPIC Guideline for ondansetron and CYP2D6
+1
+PA450705
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC dosing guideline for ondansetron recommends selecting an alternate drug for CYP2D6 ultrarapid metabolizers. It is recommended that the alternate drug not be predominantly metabolized by CYP2D6 (eg. granisetron).
+
+
+
+
+PA166161955
+Annotation of CPIC Guideline for tropisetron and CYP2D6
+1
+PA161925594
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC dosing guideline for tropisetron recommends selecting an alternate drug for CYP2D6 ultrarapid metabolizers. It is recommended that the alternate drug not be predominantly metabolized by CYP2D6 (eg. granisetron).
+
+
+
+
+PA166170751
+Annotation of CPNDS Guideline for cisplatin and TPMT
+1
+PA449014
+Canadian Pharmacogenomics Network for Drug Safety
+The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of pharmacogenetic testing for TPMT gene variants when prescribing cisplatin in pediatric cancer patients. They recommend testing for the TPMT alleles *2, *3A, *3B or *3C in all pediatric cancer patients due to the association of these alleles with an increased risk of cisplatin-induced ototoxicity.
+
+
+
+
+PA166170752
+Annotation of CPNDS Guideline for warfarin and CYP2C9,VKORC1
+1
+PA451906
+Canadian Pharmacogenomics Network for Drug Safety
+The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of pharmacogenetic testing for variants in VKORC1 and CYP2C9 in adult and pediatric patients with an indication for warfarin. They recommend testing for the VKORC1 SNP -1639G&gt;A (rs9923231) and the CYP2C9 alleles *2 and *3 in order to better guide warfarin dosage.
+
+
+
+
+PA166176068
+Annotation of CPIC Guideline for tamoxifen and CYP2D6
+1
+PA451581
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for tamoxifen recommends the use of alternative hormonal therapy such as an aromatase inhibitor for postmenopausal women or aromatase inhibitor along with ovarian function suppression in premenopausal women for CYP2D6 poor metabolizer, if aromatase inhibitor use is not contraindicated. For CYP2D6 intermediate metabolizers and CYP2D6 allele combinations resulting in an activity score (AS) of 1 the recommendation is to consider the recommendations stated for the CYP2D6 poor metabolizer. If aromatase inhibitor use is contraindicated, consideration should be given to use a higher but FDA approved tamoxifen dose for CYP2D6 intermediate metabolizers and CYP2D6 allele combinations resulting in an AS of 1. For poor metabolizer, higher dose tamoxifen (40 mg/day) increases but does not normalize endoxifen concentrations and can be considered if there are contraindications to aromatase inhibitor therapy.
+
+
+
+
+PA166176623
+Annotation of CPIC Guideline for oxcarbazepine and HLA-B
+1
+PA450732
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for oxcarbazepine recommends an alternative drug for oxcarbazepine-naive patients carrying at least one copy of HLA-B*15:02 due to the association of this allele with an increased risk of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN).
+
+
+
+
+PA166181721
+Annotation of CPNDS Guideline for tamoxifen and CYP2D6
+1
+PA451581
+Canadian Pharmacogenomics Network for Drug Safety
+The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published clinical practice guidelines for CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients. The guidelines recommend that alternatives to standard tamoxifen treatments may be considered in CYP2D6 poor or intermediate metabolizers with an emphasis on the use of comprehensive CYP2D6 genotyping panels in guiding treatment decisions.
+
+
+
+
+PA166181885
+Annotation of CPIC Guideline for atomoxetine and CYP2D6
+1
+PA134688071
+Clinical Pharmacogenetics Implementation Consortium
+The CPIC Dosing Guideline for atomoxetine provides therapeutic recommendations for CYP2D6 ultrarapid, normal, intermediate, and poor metabolizer, which includes guidance for plasma drug concentration testing, as a means to estimate atomoxetine exposure, if no clinical response and in the absence of adverse events after 2 weeks of therapy.
+
+
+
+
+PA166182603
+Annotation of CPIC Guideline for efavirenz and CYP2B6
+1
+PA449441
+Clinical Pharmacogenetics Implementation Consortium
+Consider initiating efavirenz with a decreased dose of either 400 or 200 mg/day for patients who are CYP2B6 poor metabolizers. Consider initiating efavirenz with a decreased dose of 400 mg/day for patients who are CYP2B6 intermediate metabolizers.
+
+
+
+
+PA166182803
+Annotation of DPWG Guideline for quinidine and CYP2D6
+0
+PA451209
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for quinidine based on CYP2D6 genotypes.
+
+
+
+
+PA166182805
+Annotation of DPWG Guideline for mirtazapine and CYP2C19
+0
+PA450522
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for mirtazapine based on CYP2C19 genotypes.
+
+
+
+
+PA166182807
+Annotation of DPWG Guideline for ticagrelor and CYP2C19
+0
+PA165374673
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for ticagrelor based on CYP2C19 genotypes.
+
+
+
+
+PA166182808
+Annotation of DPWG Guideline for methylphenidate and CYP2D6
+0
+PA450464
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for methylphenidate based on CYP2D6 genotype.
+
+
+
+
+PA166182809
+Annotation of DPWG Guideline for gefitinib and CYP2D6
+0
+PA131301952
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for gefitinib based on CYP2D6 genotype.
+
+
+
+
+PA166182810
+Annotation of DPWG Guideline for flucloxacillin and HLA-B
+1
+PA164781042
+Dutch Pharmacogenetics Working Group
+Monitor for liver function and select an alternative drug instead of flucloxacillin if liver enzymes or bilirubin is elevated, for patients that are HLA-B*5701.
+
+
+
+
+PA166182811
+Annotation of DPWG Guideline for disopyramide and CYP2D6
+0
+PA449373
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for disopyramide based on CYP2D6 genotype.
+
+
+
+
+PA166182812
+Annotation of DPWG Guideline for fluphenazine and CYP2D6
+0
+PA449676
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for fluphenazine based on CYP2D6 genotype.
+
+
+
+
+PA166182813
+Annotation of DPWG Guideline for fluvoxamine and CYP2D6
+0
+PA449690
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for fluvoxamine based on CYP2D6 genotype.
+
+
+
+
+PA166182814
+Annotation of DPWG Guideline for fluvoxamine and CYP2C19
+0
+PA449690
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for fluvoxamine based on CYP2C19 genotypes.
+
+
+
+
+PA166182815
+Annotation of DPWG Guideline for amiodarone and CYP2D6
+0
+PA448383
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for amiodarone based on CYP2D6 genotype.
+
+
+
+
+PA166182816
+Annotation of DPWG Guideline for bisoprolol and CYP2D6
+0
+PA448641
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for bisoprolol based on CYP2D6 genotype.
+
+
+
+
+PA166182817
+Annotation of DPWG Guideline for citalopram,escitalopram and CYP2D6
+0
+PA449015
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for citalopram/escitalopram based on CYP2D6 genotype.
+
+
+
+
+PA166182818
+Annotation of DPWG Guideline for clonidine and CYP2D6
+0
+PA449051
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for clonidine based on CYP2D6 genotype.
+
+
+
+
+PA166182819
+Annotation of DPWG Guideline for pimozide and CYP2D6
+1
+PA450965
+Dutch Pharmacogenetics Working Group
+Patients who are CYP2D6 intermediate metabolizers should be given no more than 80% of the standard maximum dose of pimozide while patients who are CYP2D6 poor metabolizers should be given no more than 50% of the standard maximum dose.
+
+
+
+
+PA166182820
+Annotation of DPWG Guideline for prasugrel and CYP2C19
+0
+PA154410481
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for prasugrel based on CYP2C19 genotypes.
+
+
+
+
+PA166182821
+Annotation of DPWG Guideline for sertraline and CYP2D6
+0
+PA451333
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for sertraline based on CYP2D6 genotypes.
+
+
+
+
+PA166182822
+Annotation of DPWG Guideline for atenolol and CYP2D6
+0
+PA448499
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for atenolol based on CYP2D6 genotype.
+
+
+
+
+PA166182823
+Annotation of DPWG Guideline for eliglustat and CYP2D6
+1
+PA166123486
+Dutch Pharmacogenetics Working Group
+The Dutch Pharmacogenetics Working Group Guideline for eliglustat recommends to use an alternative in CYP2D6 ultrarapid metabolizer. For CYP2D6 poor metabolizer in combination with CYP3A inhibitors and strong inducers, the guideline recommends to choose an alternative if possible. For intermediate metabolizers recommendations are provided for co-medication with CYP2D6 and/or CYP3A inhibitors and CPY3A inducers.
+
+
+
+
+PA166182841
+Annotation of DPWG Guideline for warfarin and VKORC1
+1
+PA451906
+Dutch Pharmacogenetics Working Group
+Patients with the VKORC1 -1639 (rs9923231) AA genotype should be given 60% of the standard initial dose of warfarin. The genotype-specific initial dose and maintenance dose can be calculated using an algorithm. There are no recommendation for patients with the VKORC1 -1639 AG genotype.
+
+
+
+
+PA166182842
+Annotation of DPWG Guideline for warfarin and CYP2C9
+1
+PA451906
+Dutch Pharmacogenetics Working Group
+Reduce warfarin dose in CYP2C9 poor and intermediate metabolizers (PM and IM) and patients with CYP2C9*1/*3, *2/*3, *2/*2 or *3/*3 genotype. &quot;The genotype-specific initial dose and maintenance dose can be calculated using an algorithm, as used in EU-PACT: see https://www.knmp.nl/producten-en-diensten/gebruiksrecht-g-standaard/medicatiebewaking-g-standaard/background-informationpharmacogenetics.&quot;
+
+
+
+
+PA166182843
+Annotation of DPWG Guideline for atorvastatin and SLCO1B1
+1
+PA448500
+Dutch Pharmacogenetics Working Group
+Choose an alternative for patients with the SLCO1B1 521 CC or TC (rs4149056) genotype and with ADDITIONAL SIGNIFICANT RISK FACTORS for statin-induced myopathy. For patients without additional significant risk factors for statin-induced myopathy, advise the patients to contact their doctor in the event of muscle symptoms.
+
+
+
+
+PA166182844
+Annotation of DPWG Guideline for simvastatin and SLCO1B1
+1
+PA451363
+Dutch Pharmacogenetics Working Group
+Choose an alternative for patients with the SLCO1B1 521 CC or TC (rs4149056) genotype and consider any additional risk factors for statin-induced myopathy. If an alternative is not an option for patients with the 521 TC genotype, avoid simvastatin doses exceeding 40 mg/day and advise the patient to contact their doctor in the event of muscle symptoms.
+
+
+
+
+PA166182845
+Annotation of DPWG Guideline for fluvastatin and SLCO1B1
+0
+PA449688
+Dutch Pharmacogenetics Working Group
+There are currently no recommendations for fluvastatin dosing based on SLCO1B1 genotypes.
+
+
+
+
+PA166182846
+Annotation of DPWG Guideline for efavirenz and CYP2B6
+1
+PA449441
+Dutch Pharmacogenetics Working Group
+Adjust the initial efavirenz dose for patients with the CYP2B6 PM phenotype along with the consideration of age, weight and BMI and titrate the dose to plasma concentration if needed. For patients with CYP2B6 IM phenotype, determine the efavirenz plasma concentration if side effects occur and reduce the dose if needed.
+
+
+
+
+PA166182852
+Annotation of DPWG Guideline for fluoxetine and CYP2D6
+0
+PA449673
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for fluoxetine based on CYP2D6 genotype.
+
+
+
+
+PA166182854
+Annotation of DPWG Guideline for quetiapine and CYP2D6
+0
+PA451201
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for quetiapine based on CYP2D6 genotype.
+
+
+
+
+PA166182855
+Annotation of DPWG Guideline for sotalol and CYP2D6
+0
+PA451457
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for sotalol based on CYP2D6 genotype.
+
+
+
+
+PA166184526
+Annotation of DPWG Guideline for amitriptyline and CYP2C19
+0
+PA448385
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for amitriptyline based on CYP2C19 genotype.
+
+
+
+
+PA166184527
+Annotation of DPWG Guideline for brexpiprazole and CYP2D6
+1
+PA166160053
+Dutch Pharmacogenetics Working Group
+The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group (DPWG) recommends to use half of the standard dose of brexpiprazole for patients carrying poor metabolizer alleles of CYP2D6.
+
+
+
+
+PA166184528
+Annotation of DPWG Guideline for clomipramine and CYP2C19
+1
+PA449048
+Dutch Pharmacogenetics Working Group
+The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group (DPWG) recommends to avoid clomipramine in CYP2D6 ultrarapid metabolizer (UM) for Indication OBSESSIVE COMPULSIVE DISORDER or ANXIETY DISORDERS.
+
+
+
+
+PA166184529
+Annotation of DPWG Guideline for doxepin and CYP2C19
+0
+PA449409
+Dutch Pharmacogenetics Working Group
+There are currently no dosing recommendations for doxepin based on CYP2C19 genotype.
+
+
+
+
+PA166184612
+Annotation of DPWG Guideline for thioguanine and NUDT15
+1
+PA451663
+Dutch Pharmacogenetics Working Group
+Select an alternative drug or reduce the initial dose of thioguanine for patients that are NUDT15 poor metabolizers and reduce initial dose for patients that are NUDT15 intermediate metabolizers.
+
+
+
+
+PA166184613
+Annotation of DPWG Guideline for mercaptopurine and NUDT15
+1
+PA450379
+Dutch Pharmacogenetics Working Group
+Select an alternative drug or reduce the initial dose of mercaptopurine for patients that are NUDT15 poor metabolizers and reduce initial dose for patients that are NUDT15 intermediate metabolizers.
+
+
+
+
+PA166184614
+Annotation of DPWG Guideline for azathioprine and NUDT15
+1
+PA448515
+Dutch Pharmacogenetics Working Group
+Select an alternative drug or reduce the initial dose of azathioprine for patients that are NUDT15 poor metabolizers and reduce initial dose for patients that are NUDT15 intermediate metabolizers.
+
