@@ -60,7 +60,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Recommendation,Source,SummaryMarkdown")] ClinicalGuidelineAnnotation clinicalGuidelineAnnotation)
+        public async Task<IActionResult> Create([Bind("Id,Name,Recommendation,Drug,Source,SummaryMarkdown")] ClinicalGuidelineAnnotation clinicalGuidelineAnnotation)
         {
             if (ModelState.IsValid)
             {
