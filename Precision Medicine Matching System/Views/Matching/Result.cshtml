@@ -1,4 +1,8 @@
 ﻿@{
 	ViewData["Title"] = "Result";
 }
-<p>@ViewData["Result"]</p>
+<p>@ViewData["Name"]</p>
+@foreach (string result in (List<String>)@ViewData["Results"])
+{
+	<p>@result</p>
+}
