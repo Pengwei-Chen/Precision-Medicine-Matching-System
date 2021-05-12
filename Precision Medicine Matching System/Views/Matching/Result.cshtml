@@ -24,25 +24,22 @@
 		</tr>
 	</thead>
 	<tbody>
-		@foreach (IQueryable<DrugLabelAnnotation> results in (HashSet<IQueryable<DrugLabelAnnotation>>)@ViewData["Results"])
+		@foreach (var item in (HashSet<DrugLabelAnnotation>)ViewData["Results"])
 		{
-			@foreach (var item in results)
-			{
-				<tr>
-					<td>
-						@Html.DisplayFor(modelItem => item.Id)
-					</td>
-					<td>
-						@Html.DisplayFor(modelItem => item.Source)
-					</td>
-					<td>
-						@Html.DisplayFor(modelItem => item.DosingInformation)
-					</td>
-					<td>
-						@Html.DisplayFor(modelItem => item.SummaryMarkdown)
-					</td>
-				</tr>
-			}
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Id)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Source)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.DosingInformation)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.SummaryMarkdown)
+				</td>
+			</tr>
 		}
 		</tbody>
 </table>

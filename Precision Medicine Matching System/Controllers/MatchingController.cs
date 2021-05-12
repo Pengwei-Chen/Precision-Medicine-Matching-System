@@ -31,7 +31,7 @@ namespace Precision_Medicine_Matching_System.Controllers
 		{
             ViewData["Name"] = file.FileName;
             HashSet<string> searchStrings = new();
-            HashSet<IQueryable<DrugLabelAnnotation>> results = new();
+            HashSet<DrugLabelAnnotation> results = new();
             using (StreamReader streamReader = new(file.OpenReadStream()))
             {
                 string line = streamReader.ReadLine();
@@ -47,7 +47,8 @@ namespace Precision_Medicine_Matching_System.Controllers
             {
                 var drugLabelAnnotations = from m in _context.DrugLabelAnnotation select m;
                 drugLabelAnnotations = drugLabelAnnotations.Where(s => s.SummaryMarkdown.Contains(searchString));
-                results.Add(drugLabelAnnotations);
+                foreach(DrugLabelAnnotation drugLabelAnnotation in drugLabelAnnotations)
+                    results.Add(drugLabelAnnotation);
             }
             ViewData["Results"] = results;
             return View();
