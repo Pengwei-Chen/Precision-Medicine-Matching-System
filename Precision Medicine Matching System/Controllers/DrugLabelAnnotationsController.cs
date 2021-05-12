@@ -20,9 +20,15 @@ namespace Precision_Medicine_Matching_System.Controllers
         }
 
         // GET: DrugLabelAnnotations
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.DrugLabelAnnotation.ToListAsync());
+            var drugLabelAnnotations = from m in _context.DrugLabelAnnotation select m;
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                drugLabelAnnotations = drugLabelAnnotations.Where(s => s.Id.Contains(searchString));
+            }
+
+            return View(await drugLabelAnnotations.ToListAsync());
         }
 
         // GET: DrugLabelAnnotations/Details/5

@@ -20,10 +20,10 @@
 				<input asp-for="Name" class="form-control" />
 				<span asp-validation-for="Name" class="text-danger"></span>
 			</div>
-			<div class="form-group form-check">
-				<label class="form-check-label">
-					<input class="form-check-input" asp-for="Recommendation" /> @Html.DisplayNameFor(model => model.Recommendation)
-				</label>
+			<div class="form-group">
+				<label asp-for="Recommendation" class="control-label"></label>
+				<input asp-for="Recommendation" class="form-control" />
+				<span asp-validation-for="Recommendation" class="text-danger"></span>
 			</div>
 			<div class="form-group">
 				<label asp-for="Drug" class="control-label"></label>
