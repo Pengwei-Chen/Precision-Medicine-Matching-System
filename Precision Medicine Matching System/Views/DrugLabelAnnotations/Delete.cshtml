@@ -4,38 +4,32 @@
     ViewData["Title"] = "Delete";
 }
 
-<h4>Delete</h4>
+<h1>Delete</h1>
 
-<p>Are you sure you want to delete this?</p>
+<h3>Are you sure you want to delete this?</h3>
 <div>
-    <h4>Drug Label Annotation</h4>
+    <h4>DrugLabelAnnotation</h4>
     <hr />
-	<dl class="row">
-		<dt class="col-sm-2">
-			@Html.DisplayNameFor(model => model.Id)
-		</dt>
-		<dd class="col-sm-10">
-			@Html.DisplayFor(model => model.Source)
-		</dd>
-		<dt class="col-sm-2">
-			@Html.DisplayNameFor(model => model.Source)
-		</dt>
-		<dd class="col-sm-10">
-			@Html.DisplayFor(model => model.Source)
-		</dd>
-		<dt class="col-sm-2">
-			@Html.DisplayNameFor(model => model.DosingInformation)
-		</dt>
-		<dd class="col-sm-10">
-			@Html.DisplayFor(model => model.DosingInformation)
-		</dd>
-		<dt class="col-sm-2">
-			@Html.DisplayNameFor(model => model.SummaryMarkdown)
-		</dt>
-		<dd class="col-sm-10">
-			@Html.DisplayFor(model => model.SummaryMarkdown)
-		</dd>
-	</dl>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Source)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Source)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DosingInformation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DosingInformation)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SummaryMarkdown)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SummaryMarkdown)
+        </dd>
+    </dl>
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />

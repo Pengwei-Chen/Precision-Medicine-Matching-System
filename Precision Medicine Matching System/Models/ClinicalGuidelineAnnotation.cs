@@ -20,7 +20,7 @@ namespace Precision_Medicine_Matching_System.Models
 
 		[Required]
 		[Display(Name = "Drug ID")]
-		public string DrugId { get; set; }
+		public string Drug { get; set; }
 
 		[Required]
 		public string Source { get; set; }
