@@ -13,5 +13,11 @@ namespace Precision_Medicine_Matching_System.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public IActionResult Result()
+		{
+            return View();
+		}
     }
 }
