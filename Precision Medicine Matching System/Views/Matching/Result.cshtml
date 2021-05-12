@@ -1,10 +1,47 @@
-﻿@{
+﻿@model IEnumerable<Precision_Medicine_Matching_System.Models.DrugLabelAnnotation>
+@{
 	ViewData["Title"] = "Result";
 }
 <h4>Result</h4>
 <p>Data Source: @ViewData["Name"]</p>
 <br />
-@foreach (string result in (HashSet<string>)@ViewData["Results"])
-{
-	<p>@result</p>
-}
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Id)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Source)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.DosingInformation)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.SummaryMarkdown)
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (IQueryable<DrugLabelAnnotation> results in (HashSet<IQueryable<DrugLabelAnnotation>>)@ViewData["Results"])
+		{
+			@foreach (var item in results)
+			{
+				<tr>
+					<td>
+						@Html.DisplayFor(modelItem => item.Id)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Source)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.DosingInformation)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.SummaryMarkdown)
+					</td>
+				</tr>
+			}
+		}
+		</tbody>
+</table>

@@ -27,7 +27,6 @@ namespace Precision_Medicine_Matching_System.Controllers
             {
                 drugLabelAnnotations = drugLabelAnnotations.Where(s => s.Id.Contains(searchString));
             }
-
             return View(await drugLabelAnnotations.ToListAsync());
         }
 
