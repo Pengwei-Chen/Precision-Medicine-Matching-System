@@ -1,8 +1,10 @@
 ﻿@{
 	ViewData["Title"] = "Result";
 }
-<p>@ViewData["Name"]</p>
-@foreach (string result in (List<String>)@ViewData["Results"])
+<h4>Result</h4>
+<p>Data Source: @ViewData["Name"]</p>
+<br />
+@foreach (string result in (HashSet<string>)@ViewData["Results"])
 {
 	<p>@result</p>
 }

@@ -20,13 +20,15 @@ namespace Precision_Medicine_Matching_System.Controllers
         public IActionResult Result(IFormFile file)
 		{
             ViewData["Name"] = file.FileName;
-            List<string> results = new();
+            HashSet<string> results = new();
             using (StreamReader streamReader = new(file.OpenReadStream()))
             {
                 string line = streamReader.ReadLine();
                 while (line != null)
                 {
-                    results.Add(line);
+                    string[] items = line.Split("\t");
+                    if(items.Length >=8 && !items[8].Equals("synonymous SNV"))
+                        results.Add(items[6]);
                     line = streamReader.ReadLine();
                 }
             }
