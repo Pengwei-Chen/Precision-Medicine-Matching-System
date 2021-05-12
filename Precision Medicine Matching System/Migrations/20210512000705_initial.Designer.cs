@@ -9,8 +9,8 @@ using Precision_Medicine_Matching_System.Data;
 namespace Precision_Medicine_Matching_System.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20210511205457_bool")]
-    partial class @bool
+    [Migration("20210512000705_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -46,13 +46,16 @@ namespace Precision_Medicine_Matching_System.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<string>("Drug")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Recommendation")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool>("Recommendation")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Source")
                         .IsRequired()
@@ -72,9 +75,8 @@ namespace Precision_Medicine_Matching_System.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("DosingInformation")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool>("DosingInformation")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Source")
                         .IsRequired()

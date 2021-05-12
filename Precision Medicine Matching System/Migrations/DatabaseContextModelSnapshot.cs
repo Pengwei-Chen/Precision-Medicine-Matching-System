@@ -44,7 +44,7 @@ namespace Precision_Medicine_Matching_System.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("DrugId")
+                    b.Property<string>("Drug")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -75,10 +75,6 @@ namespace Precision_Medicine_Matching_System.Migrations
 
                     b.Property<bool>("DosingInformation")
                         .HasColumnType("bit");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Source")
                         .IsRequired()

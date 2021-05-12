@@ -2,7 +2,7 @@
 
 namespace Precision_Medicine_Matching_System.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -11,9 +11,9 @@ namespace Precision_Medicine_Matching_System.Migrations
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DrugUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Biomarker = table.Column<int>(type: "int", nullable: false)
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    DrugUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Biomarker = table.Column<bool>(type: "bit", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -25,10 +25,11 @@ namespace Precision_Medicine_Matching_System.Migrations
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Recommendation = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Source = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    SummaryMarkdown = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Recommendation = table.Column<bool>(type: "bit", nullable: false),
+                    Drug = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Source = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    SummaryMarkdown = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -40,9 +41,9 @@ namespace Precision_Medicine_Matching_System.Migrations
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    Source = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DosingInformation = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    SummaryMarkdown = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    Source = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    DosingInformation = table.Column<bool>(type: "bit", nullable: false),
+                    SummaryMarkdown = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
