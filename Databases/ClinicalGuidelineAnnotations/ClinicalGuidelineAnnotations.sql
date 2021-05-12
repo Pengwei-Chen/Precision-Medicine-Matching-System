@@ -2,9 +2,9 @@ insert into [Precision_Medicine_Matching_System].[dbo].[ClinicalGuidelineAnnotat
 ([Id]
       ,[Name]
       ,[Recommendation]
-      ,[Drug]
       ,[Source]
-      ,[SummaryMarkdown])
+      ,[SummaryMarkdown]
+      ,[DrugId])
 values
 ('PA166104931','Annotation of DPWG Guideline for esomeprazole and CYP2C19',0,'PA10075','Dutch Pharmacogenetics Working Group','No action is needed for this gene-drug interaction.'),
 ('PA166104933','Annotation of CPIC Guideline for azathioprine and NUDT15,TPMT',1,'PA448515','Clinical Pharmacogenetics Implementation Consortium','Consider an alternate agent or extreme dose reduction of azathioprine for patients who are TPMT or NUDT15 poor metabolizers. Start at 30-80% of target dose for patients who are TPMT or NUDT15 intermediate metabolizers.'),
