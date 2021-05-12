@@ -50,8 +50,7 @@ namespace Precision_Medicine_Matching_System.Controllers
                 foreach(DrugLabelAnnotation drugLabelAnnotation in drugLabelAnnotations)
                     results.Add(drugLabelAnnotation);
             }
-            ViewData["Results"] = results;
-            return View();
+            return View(results);
 		}
     }
 }
