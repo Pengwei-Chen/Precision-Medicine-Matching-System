@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Precision_Medicine_Matching_System.Models;
 using Precision_Medicine_Matching_System.Data;
+using Precision_Medicine_Matching_System.Controllers;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Precision_Medicine_Matching_System
 {
@@ -28,6 +31,11 @@ namespace Precision_Medicine_Matching_System
 		{
 			services.AddControllersWithViews();
 			services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DatabaseContext")));
+			services.AddAuthentication().AddScheme<AuthenticationSchemeOptions, AdministratorAuthenticationHandler>("AdministratorAuthentication", options => { });
+			services.AddAuthorization(options =>
+			{
+				options.AddPolicy("AdministratorAuthentication", new AuthorizationPolicyBuilder("AdministratorAuthentication").RequireAuthenticatedUser().Build());
+			});
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

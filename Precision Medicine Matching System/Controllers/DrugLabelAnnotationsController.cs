@@ -49,6 +49,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         }
 
         // GET: DrugLabelAnnotations/Create
+        [Administrator]
         public IActionResult Create()
         {
             return View();
@@ -59,6 +60,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Administrator]
         public async Task<IActionResult> Create([Bind("Id,Source,DosingInformation,SummaryMarkdown")] DrugLabelAnnotation drugLabelAnnotation)
         {
             if (ModelState.IsValid)
@@ -71,6 +73,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         }
 
         // GET: DrugLabelAnnotations/Edit/5
+        [Administrator]
         public async Task<IActionResult> Edit(string id)
         {
             if (id == null)
@@ -91,6 +94,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Administrator]
         public async Task<IActionResult> Edit(string id, [Bind("Id,Source,DosingInformation,SummaryMarkdown")] DrugLabelAnnotation drugLabelAnnotation)
         {
             if (id != drugLabelAnnotation.Id)
@@ -122,6 +126,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         }
 
         // GET: DrugLabelAnnotations/Delete/5
+        [Administrator]
         public async Task<IActionResult> Delete(string id)
         {
             if (id == null)
@@ -142,6 +147,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         // POST: DrugLabelAnnotations/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Administrator]
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
             var drugLabelAnnotation = await _context.DrugLabelAnnotation.FindAsync(id);

@@ -50,6 +50,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         }
 
         // GET: AnnotatedDrugs/Create
+        [Administrator]
         public IActionResult Create()
         {
             return View();
@@ -60,6 +61,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Administrator]
         public async Task<IActionResult> Create([Bind("Id,Name,DrugUrl,Biomarker")] AnnotatedDrug annotatedDrug)
         {
             if (ModelState.IsValid)
@@ -72,6 +74,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         }
 
         // GET: AnnotatedDrugs/Edit/5
+        [Administrator]
         public async Task<IActionResult> Edit(string id)
         {
             if (id == null)
@@ -92,6 +95,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Administrator]
         public async Task<IActionResult> Edit(string id, [Bind("Id,Name,DrugUrl,Biomarker")] AnnotatedDrug annotatedDrug)
         {
             if (id != annotatedDrug.Id)
@@ -123,6 +127,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         }
 
         // GET: AnnotatedDrugs/Delete/5
+        [Administrator]
         public async Task<IActionResult> Delete(string id)
         {
             if (id == null)
@@ -143,6 +148,7 @@ namespace Precision_Medicine_Matching_System.Controllers
         // POST: AnnotatedDrugs/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Administrator]
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
             var annotatedDrug = await _context.AnnotatedDrug.FindAsync(id);
