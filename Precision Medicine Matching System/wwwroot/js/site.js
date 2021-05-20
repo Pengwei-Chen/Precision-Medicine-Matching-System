@@ -2,13 +2,13 @@
 	$("div.navbar-collapse>div.nav-line").stop();
 	var url = location.href;
 	var page = 0;
-	if (url.indexOf("Matching") != -1) {
+	if (url.indexOf("/Matching") != -1) {
 		page = 1;
 	}
-	else if (url.indexOf("KnowledgeBase") != -1 || url.indexOf("DrugLabelAnnotations") != -1 || url.indexOf("ClinicalGuidelineAnnotations") != -1 || url.indexOf("AnnotatedDrugs") != -1) {
+	else if (url.indexOf("/KnowledgeBase") != -1 || url.indexOf("/DrugLabelAnnotations") != -1 || url.indexOf("/ClinicalGuidelineAnnotations") != -1 || url.indexOf("/AnnotatedDrugs") != -1) {
 		page = 2
 	}
-	else if (url.indexOf("AboutUs") != -1) {
+	else if (url.indexOf("/AboutUs") != -1) {
 		page = 3;
 	}
 	$("div.navbar-collapse>div.nav-line").css({
@@ -28,13 +28,13 @@ $("div.navbar-collapse>ul.navbar-nav>li.nav-item").hover(function () {
 $("div.navbar-collapse>ul.navbar-nav>li.nav-item").mouseleave(function () {
 	var url = location.href;
 	var page = 0;
-	if (url.indexOf("Matching") != -1) {
+	if (url.indexOf("/Matching") != -1) {
 		page = 1;
 	}
-	else if (url.indexOf("KnowledgeBase") != -1 || url.indexOf("DrugLabelAnnotations") != -1 || url.indexOf("ClinicalGuidelineAnnotations") != -1 || url.indexOf("AnnotatedDrugs") != -1) {
+	else if (url.indexOf("/KnowledgeBase") != -1 || url.indexOf("/DrugLabelAnnotations") != -1 || url.indexOf("/ClinicalGuidelineAnnotations") != -1 || url.indexOf("/AnnotatedDrugs") != -1) {
 		page = 2
 	}
-	else if (url.indexOf("AboutUs") != -1) {
+	else if (url.indexOf("/AboutUs") != -1) {
 		page = 3;
 	}
 	$("div.navbar-collapse>div.nav-line").stop().animate({
